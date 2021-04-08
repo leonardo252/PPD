@@ -31,10 +31,12 @@ public class Server_Stream {
 
                 output.write(toSend);
 
+                System.out.println(new String(data, "ASCII"));
+
             }
 
         }catch (Exception e) {
-
+            System.out.println(e);
         }
     }
 }

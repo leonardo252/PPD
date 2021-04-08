@@ -42,7 +42,7 @@ public class Cliente extends JFrame implements ActionListener, KeyListener {
     public Cliente() throws IOException {
         JLabel lblMessage = new JLabel("Verificar!");
         txtIP = new JTextField("127.0.0.1");
-        txtPorta = new JTextField("12345");
+        txtPorta = new JTextField("1024");
         txtNome = new JTextField("Cliente");
         Object[] texts = {lblMessage, txtIP, txtPorta, txtNome };
         JOptionPane.showMessageDialog(null, texts);
