@@ -76,17 +76,45 @@ public class MainScreen extends JFrame {
     private JButton button8B;
     private JButton button8A;
 
+
+    private static Server server;
+    private static Client client;
+
     public MainScreen(String title) {
         super(title);
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setContentPane(mainPanel);
         this.pack();
+
+        server = new Server();
+//        client = new Client();
+        server.starRecive();
+
+//        String menssage = server.reciver.getMenssage();
+
+//        upChat();
+
     }
 
     public static void main(String[] args) {
 
         JFrame frame = new MainScreen("Othelo");
         frame.setVisible(true);
+
+
+
+        while (true) {
+            String menssage = server.reciver.getMenssage();
+            if (menssage != null) {
+                upChat(menssage);
+            }
+        }
     }
+
+    public void upChat(String newMenssage) {
+            chatTextArea.append(newMenssage);
+    }
+
+
 }

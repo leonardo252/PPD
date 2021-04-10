@@ -4,7 +4,10 @@ import java.net.UnknownHostException;
 
 public class Client {
 
-    private Socket socketConnection;
+    private static Socket socketConnection;
+
+    public ClientReciver reciver;
+    public ClientSender sender;
 
     private Integer socketPort = 1024;
     private String socketIP = "127.0.0.1";
@@ -12,15 +15,15 @@ public class Client {
     public static void main(String[] args) {
 
         Client client = new Client();
-        Socket connection = client.conect();
-
-        client.starRecive(connection);
+        socketConnection = client.conect();
 
 //        for (int i = 0; i < 5; i++) {
 //            System.out.println(i);
-//            client.sendMenssage(connection, "Menssagem "+i+"\r\n");
+//            client.sendMenssage("Menssagem "+i+"\r\n");
 //        }
 
+//        client.starRecive();
+        client.sendMenssage("Menssagem Client \r\n");
 
     }
 
@@ -32,8 +35,8 @@ public class Client {
 
     public Socket conect() {
         try {
-            socketConnection = new Socket(socketIP, socketPort);
-            return socketConnection;
+            Socket connection = new Socket(socketIP, socketPort);
+            return connection;
 
         } catch (UnknownHostException e) {
             e.printStackTrace();
@@ -43,16 +46,15 @@ public class Client {
         return null;
     }
 
-    public void starRecive(Socket socketCon) {
+    public void starRecive() {
 
-        ClientReciver reciver = new ClientReciver(socketCon);
+        reciver = new ClientReciver(socketConnection);
         reciver.run();
-
     }
 
-    public void sendMenssage(Socket socketCon, String menssage) {
+    public void sendMenssage(String menssage) {
 
-        ClientSender sender = new ClientSender(socketCon);
+        sender = new ClientSender(socketConnection);
         sender.run(menssage);
 
     }

@@ -6,13 +6,33 @@ import java.net.Socket;
 public class Server {
 
     private static ServerSocket serverSocket;
+    private static Socket socketConnection;
     private InputStream inputStream;
     private OutputStream outputStream;
+    public ServerReciver reciver;
+    public ServerSender sender;
 
     private Integer socketPort = 1024;
 
     public static void main(String[] args) {
 
+//        Server server = new Server();
+//        socketConnection = server.connect();
+//
+//        server.starRecive();
+//        server.sendMenssage("Hello Cleint");
+
+
+    }
+
+    public Server() {
+        System.out.println("Starting Server");
+
+        socketConnection = connect();
+
+    }
+
+    public Socket connect() {
         try {
 
             serverSocket = new ServerSocket(1024);
@@ -21,30 +41,27 @@ public class Server {
             Socket connection = serverSocket.accept();
 
             System.out.println("Client connected...");
-            ServerReciver reciver = new ServerReciver(connection);
-            ServerSender sender = new ServerSender(connection);
 
-            reciver.start();
-
-            for (int i = 0; i < 5; i++) {
-                System.out.println(i);
-                sender.run("Menssagem "+i+"\r\n");
-            }
-
-            while (true) {
-
-                if (connection.isClosed() == true) {
-                    System.out.println("Connection was closed!");
-                    break;
-                }
-            }
+            return connection;
 
         } catch (Exception e) {
             e.printStackTrace();
             System.out.println("Server Main - "+e);
         }
 
+        return null;
+    }
+
+    public void starRecive() {
+        reciver = new ServerReciver(socketConnection);
+        reciver.run();
+    }
+
+    public void sendMenssage(String menssage) {
+        sender = new ServerSender(socketConnection);
+        sender.run(menssage);
 
     }
+
 
 }

@@ -38,7 +38,7 @@ public class ServerReciver extends Thread {
                 menssage = bufferedReader.readLine();
 
             }
-            socketConnection.close();
+//            socketConnection.close();
 
 
         } catch (Exception e) {
