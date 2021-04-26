@@ -1,7 +1,10 @@
 import javax.swing.*;
 import java.awt.*;
+import java.io.StringWriter;
+import java.net.Socket;
 
 public class MainScreen extends JFrame {
+
 
     private JPanel mainPanel;
     private JTextArea chatTextArea;
@@ -80,41 +83,41 @@ public class MainScreen extends JFrame {
     private static Server server;
     private static Client client;
 
+    public void upChat(String menssage) {
+        chatTextArea.append(menssage);
+    }
+
     public MainScreen(String title) {
         super(title);
 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setContentPane(mainPanel);
         this.pack();
-
-        server = new Server();
-//        client = new Client();
-        server.starRecive();
-
-//        String menssage = server.reciver.getMenssage();
-
-//        upChat();
+        this.upChat("Aqui");
 
     }
 
     public static void main(String[] args) {
 
+
+
         JFrame frame = new MainScreen("Othelo");
         frame.setVisible(true);
 
 
+        Server server = new Server();
+        Socket connectio  = server.connect();
+        ServerReciver reciver = new ServerReciver(connectio);
+
+        reciver.start();
 
         while (true) {
-            String menssage = server.reciver.getMenssage();
+            String menssage = reciver.getMenssage();
             if (menssage != null) {
-                upChat(menssage);
+                System.out.println("Screen menssage: "+menssage);
+
             }
         }
     }
-
-    public void upChat(String newMenssage) {
-            chatTextArea.append(newMenssage);
-    }
-
 
 }

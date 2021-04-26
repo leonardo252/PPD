@@ -16,7 +16,7 @@ public class Server {
 
     public static void main(String[] args) {
 
-//        Server server = new Server();
+        Server server = new Server();
 //        socketConnection = server.connect();
 //
 //        server.starRecive();
@@ -27,8 +27,6 @@ public class Server {
 
     public Server() {
         System.out.println("Starting Server");
-
-        socketConnection = connect();
 
     }
 
@@ -63,5 +61,8 @@ public class Server {
 
     }
 
+    public String getMenssage() {
+        return reciver.getMenssage();
+    }
 
 }
