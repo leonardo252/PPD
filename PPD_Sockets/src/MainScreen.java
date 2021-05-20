@@ -1,18 +1,20 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.io.StringWriter;
 import java.net.Socket;
 
-public class MainScreen extends JFrame {
+public class MainScreen extends JFrame implements ActionListener {
 
 
-    private JPanel mainPanel;
+    JPanel mainPanel;
     private JTextArea chatTextArea;
-    private JTextField menssagemTextField;
-    private JTextField textField2;
-    private JButton começarButton;
-    private JButton desistirButton;
-    private JButton enviarButton;
+    JTextField menssagemTextField;
+    JTextField nameTextField;
+    JButton começarButton;
+    JButton desistirButton;
+    JButton enviarButton;
     private JPanel gameArea;
     private JButton button1A;
     private JButton button1B;
@@ -80,11 +82,10 @@ public class MainScreen extends JFrame {
     private JButton button8A;
 
 
-    private static Server server;
-    private static Client client;
+    String userName;
 
     public void upChat(String menssage) {
-        chatTextArea.append(menssage);
+        chatTextArea.append(menssage+"\n");
     }
 
     public MainScreen(String title) {
@@ -93,31 +94,21 @@ public class MainScreen extends JFrame {
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setContentPane(mainPanel);
         this.pack();
-        this.upChat("Aqui");
 
+        começarButton.addActionListener(this);
+        chatTextArea.setEditable(false);
+    }
+
+    public void actionPerformed(ActionEvent e) {
+        if (nameTextField.getText() != null) {
+            userName = nameTextField.getText();
+        }
     }
 
     public static void main(String[] args) {
 
-
-
-        JFrame frame = new MainScreen("Othelo");
-        frame.setVisible(true);
-
-
-        Server server = new Server();
-        Socket connectio  = server.connect();
-        ServerReciver reciver = new ServerReciver(connectio);
-
-        reciver.start();
-
-        while (true) {
-            String menssage = reciver.getMenssage();
-            if (menssage != null) {
-                System.out.println("Screen menssage: "+menssage);
-
-            }
-        }
     }
+
+
 
 }
