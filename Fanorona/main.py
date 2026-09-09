@@ -1,11 +1,11 @@
 import tkinter as tk
 
-from ui.main_window import FanoronaWindow
+from ui.main_window import MainWindow
 
 
-def main() -> None:
+def main():
     root = tk.Tk()
-    FanoronaWindow(root)
+    MainWindow(root)
     root.mainloop()
 
 
