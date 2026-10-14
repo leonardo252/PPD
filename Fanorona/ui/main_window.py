@@ -29,6 +29,7 @@ class MainWindow:
         self._draw_board()
         self.root.protocol("WM_DELETE_WINDOW", self._close)
 
+    # Construção da tela
     def _build(self):
         top = tk.LabelFrame(self.root, text="Conexao", padx=8, pady=8)
         top.pack(fill="x", padx=12, pady=8)
@@ -66,10 +67,11 @@ class MainWindow:
         self.send_button = tk.Button(row, text="Enviar", state="disabled", command=self._send_chat)
         self.send_button.pack(side="left", padx=(6, 0))
 
+    #Muda texto de status na tela
     def _set_status(self, text):
-        """Mensagens internas aparecem somente na area de status."""
         self.status.set(text)
 
+    # Escreve na tela do chat
     def _append_chat(self, author, text):
         """Unico ponto autorizado a escrever no historico do chat."""
         self.chat_history.configure(state="normal")
@@ -77,6 +79,7 @@ class MainWindow:
         self.chat_history.see("end")
         self.chat_history.configure(state="disabled")
 
+    # Cria a conexão
     def _connect(self):
         try:
             port = int(self.port.get())
@@ -94,8 +97,10 @@ class MainWindow:
             self._set_status("Conectando a {}:{}...".format(self.host.get(), port))
             threading.Thread(target=self._join, args=(self.host.get(), port), daemon=True).start()
 
+    # Caso seja servidor cria oservidor e ele fica aquardando a conexão do cliente
     def _accept(self, port):
         try:
+            # IPV4 - TCP
             self.server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             self.server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
             self.server_socket.bind(("", port))
@@ -105,6 +110,7 @@ class MainWindow:
         except OSError as error:
             self.root.after(0, self._set_status, "Falha no servidor: {}".format(error))
 
+    # Caso seja cliente ele tenta conetar no servidor
     def _join(self, host, port):
         try:
             sock = socket.create_connection((host, port), timeout=8)
