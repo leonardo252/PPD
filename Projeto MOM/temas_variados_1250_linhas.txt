@@ -1,0 +1,1253 @@
+COLETÂNEA DE TEMAS VARIADOS — 1.250 LINHAS
+Textos curtos para leitura, testes e estudos.
+
+0004 | Ciência | A ciência utiliza observações e experimentos para investigar fenômenos.
+0005 | Ciência | Ponto de estudo: A ciência utiliza observações e experimentos para investigar fenômenos.
+0006 | Ciência | Para discussão em sala: A ciência utiliza observações e experimentos para investigar fenômenos.
+0007 | Ciência | Anotação temática: A ciência utiliza observações e experimentos para investigar fenômenos.
+0008 | Ciência | Ideia para aprofundamento: A ciência utiliza observações e experimentos para investigar fenômenos.
+0009 | Ciência | Hipóteses científicas precisam ser testáveis e abertas à revisão.
+0010 | Ciência | Ponto de estudo: Hipóteses científicas precisam ser testáveis e abertas à revisão.
+0011 | Ciência | Para discussão em sala: Hipóteses científicas precisam ser testáveis e abertas à revisão.
+0012 | Ciência | Anotação temática: Hipóteses científicas precisam ser testáveis e abertas à revisão.
+0013 | Ciência | Ideia para aprofundamento: Hipóteses científicas precisam ser testáveis e abertas à revisão.
+0014 | Ciência | A revisão por pares ajuda a avaliar métodos e conclusões de pesquisas.
+0015 | Ciência | Ponto de estudo: A revisão por pares ajuda a avaliar métodos e conclusões de pesquisas.
+0016 | Ciência | Para discussão em sala: A revisão por pares ajuda a avaliar métodos e conclusões de pesquisas.
+0017 | Ciência | Anotação temática: A revisão por pares ajuda a avaliar métodos e conclusões de pesquisas.
+0018 | Ciência | Ideia para aprofundamento: A revisão por pares ajuda a avaliar métodos e conclusões de pesquisas.
+0019 | Ciência | Modelos científicos simplificam sistemas complexos para facilitar análises.
+0020 | Ciência | Ponto de estudo: Modelos científicos simplificam sistemas complexos para facilitar análises.
+0021 | Ciência | Para discussão em sala: Modelos científicos simplificam sistemas complexos para facilitar análises.
+0022 | Ciência | Anotação temática: Modelos científicos simplificam sistemas complexos para facilitar análises.
+0023 | Ciência | Ideia para aprofundamento: Modelos científicos simplificam sistemas complexos para facilitar análises.
+0024 | Ciência | Uma correlação estatística não demonstra, por si só, uma relação causal.
+0025 | Ciência | Ponto de estudo: Uma correlação estatística não demonstra, por si só, uma relação causal.
+0026 | Ciência | Para discussão em sala: Uma correlação estatística não demonstra, por si só, uma relação causal.
+0027 | Ciência | Anotação temática: Uma correlação estatística não demonstra, por si só, uma relação causal.
+0028 | Ciência | Ideia para aprofundamento: Uma correlação estatística não demonstra, por si só, uma relação causal.
+0029 | Ciência | Instrumentos de medição ampliam a precisão das observações.
+0030 | Ciência | Ponto de estudo: Instrumentos de medição ampliam a precisão das observações.
+0031 | Ciência | Para discussão em sala: Instrumentos de medição ampliam a precisão das observações.
+0032 | Ciência | Anotação temática: Instrumentos de medição ampliam a precisão das observações.
+0033 | Ciência | Ideia para aprofundamento: Instrumentos de medição ampliam a precisão das observações.
+0034 | Ciência | A reprodução independente de resultados fortalece a confiança em estudos.
+0035 | Ciência | Ponto de estudo: A reprodução independente de resultados fortalece a confiança em estudos.
+0036 | Ciência | Para discussão em sala: A reprodução independente de resultados fortalece a confiança em estudos.
+0037 | Ciência | Anotação temática: A reprodução independente de resultados fortalece a confiança em estudos.
+0038 | Ciência | Ideia para aprofundamento: A reprodução independente de resultados fortalece a confiança em estudos.
+0039 | Ciência | A divulgação científica aproxima o conhecimento da população.
+0040 | Ciência | Ponto de estudo: A divulgação científica aproxima o conhecimento da população.
+0041 | Ciência | Para discussão em sala: A divulgação científica aproxima o conhecimento da população.
+0042 | Ciência | Anotação temática: A divulgação científica aproxima o conhecimento da população.
+0043 | Ciência | Ideia para aprofundamento: A divulgação científica aproxima o conhecimento da população.
+0044 | Ciência | Descobertas científicas frequentemente geram novas perguntas.
+0045 | Ciência | Ponto de estudo: Descobertas científicas frequentemente geram novas perguntas.
+0046 | Ciência | Para discussão em sala: Descobertas científicas frequentemente geram novas perguntas.
+0047 | Ciência | Anotação temática: Descobertas científicas frequentemente geram novas perguntas.
+0048 | Ciência | Ideia para aprofundamento: Descobertas científicas frequentemente geram novas perguntas.
+0049 | Ciência | A ética orienta pesquisas que envolvem pessoas, animais e ambientes.
+0050 | Ciência | Ponto de estudo: A ética orienta pesquisas que envolvem pessoas, animais e ambientes.
+0051 | Ciência | Para discussão em sala: A ética orienta pesquisas que envolvem pessoas, animais e ambientes.
+0052 | Ciência | Anotação temática: A ética orienta pesquisas que envolvem pessoas, animais e ambientes.
+0053 | Ciência | Ideia para aprofundamento: A ética orienta pesquisas que envolvem pessoas, animais e ambientes.
+0054 | Tecnologia | Computadores processam informações por meio de instruções programadas.
+0055 | Tecnologia | Ponto de estudo: Computadores processam informações por meio de instruções programadas.
+0056 | Tecnologia | Para discussão em sala: Computadores processam informações por meio de instruções programadas.
+0057 | Tecnologia | Anotação temática: Computadores processam informações por meio de instruções programadas.
+0058 | Tecnologia | Ideia para aprofundamento: Computadores processam informações por meio de instruções programadas.
+0059 | Tecnologia | Redes digitais permitem a troca de dados entre dispositivos.
+0060 | Tecnologia | Ponto de estudo: Redes digitais permitem a troca de dados entre dispositivos.
+0061 | Tecnologia | Para discussão em sala: Redes digitais permitem a troca de dados entre dispositivos.
+0062 | Tecnologia | Anotação temática: Redes digitais permitem a troca de dados entre dispositivos.
+0063 | Tecnologia | Ideia para aprofundamento: Redes digitais permitem a troca de dados entre dispositivos.
+0064 | Tecnologia | A computação em nuvem oferece recursos tecnológicos sob demanda.
+0065 | Tecnologia | Ponto de estudo: A computação em nuvem oferece recursos tecnológicos sob demanda.
+0066 | Tecnologia | Para discussão em sala: A computação em nuvem oferece recursos tecnológicos sob demanda.
+0067 | Tecnologia | Anotação temática: A computação em nuvem oferece recursos tecnológicos sob demanda.
+0068 | Tecnologia | Ideia para aprofundamento: A computação em nuvem oferece recursos tecnológicos sob demanda.
+0069 | Tecnologia | Sistemas operacionais gerenciam hardware e programas.
+0070 | Tecnologia | Ponto de estudo: Sistemas operacionais gerenciam hardware e programas.
+0071 | Tecnologia | Para discussão em sala: Sistemas operacionais gerenciam hardware e programas.
+0072 | Tecnologia | Anotação temática: Sistemas operacionais gerenciam hardware e programas.
+0073 | Tecnologia | Ideia para aprofundamento: Sistemas operacionais gerenciam hardware e programas.
+0074 | Tecnologia | Interfaces acessíveis tornam produtos digitais mais inclusivos.
+0075 | Tecnologia | Ponto de estudo: Interfaces acessíveis tornam produtos digitais mais inclusivos.
+0076 | Tecnologia | Para discussão em sala: Interfaces acessíveis tornam produtos digitais mais inclusivos.
+0077 | Tecnologia | Anotação temática: Interfaces acessíveis tornam produtos digitais mais inclusivos.
+0078 | Tecnologia | Ideia para aprofundamento: Interfaces acessíveis tornam produtos digitais mais inclusivos.
+0079 | Tecnologia | Criptografia ajuda a proteger a confidencialidade de dados.
+0080 | Tecnologia | Ponto de estudo: Criptografia ajuda a proteger a confidencialidade de dados.
+0081 | Tecnologia | Para discussão em sala: Criptografia ajuda a proteger a confidencialidade de dados.
+0082 | Tecnologia | Anotação temática: Criptografia ajuda a proteger a confidencialidade de dados.
+0083 | Tecnologia | Ideia para aprofundamento: Criptografia ajuda a proteger a confidencialidade de dados.
+0084 | Tecnologia | Atualizações de software podem corrigir falhas e melhorar recursos.
+0085 | Tecnologia | Ponto de estudo: Atualizações de software podem corrigir falhas e melhorar recursos.
+0086 | Tecnologia | Para discussão em sala: Atualizações de software podem corrigir falhas e melhorar recursos.
+0087 | Tecnologia | Anotação temática: Atualizações de software podem corrigir falhas e melhorar recursos.
+0088 | Tecnologia | Ideia para aprofundamento: Atualizações de software podem corrigir falhas e melhorar recursos.
+0089 | Tecnologia | A automação reduz tarefas repetitivas em diversos setores.
+0090 | Tecnologia | Ponto de estudo: A automação reduz tarefas repetitivas em diversos setores.
+0091 | Tecnologia | Para discussão em sala: A automação reduz tarefas repetitivas em diversos setores.
+0092 | Tecnologia | Anotação temática: A automação reduz tarefas repetitivas em diversos setores.
+0093 | Tecnologia | Ideia para aprofundamento: A automação reduz tarefas repetitivas em diversos setores.
+0094 | Tecnologia | Sensores transformam sinais físicos em informações digitais.
+0095 | Tecnologia | Ponto de estudo: Sensores transformam sinais físicos em informações digitais.
+0096 | Tecnologia | Para discussão em sala: Sensores transformam sinais físicos em informações digitais.
+0097 | Tecnologia | Anotação temática: Sensores transformam sinais físicos em informações digitais.
+0098 | Tecnologia | Ideia para aprofundamento: Sensores transformam sinais físicos em informações digitais.
+0099 | Tecnologia | O desenvolvimento de tecnologia exige testes e manutenção constantes.
+0100 | Tecnologia | Ponto de estudo: O desenvolvimento de tecnologia exige testes e manutenção constantes.
+0101 | Tecnologia | Para discussão em sala: O desenvolvimento de tecnologia exige testes e manutenção constantes.
+0102 | Tecnologia | Anotação temática: O desenvolvimento de tecnologia exige testes e manutenção constantes.
+0103 | Tecnologia | Ideia para aprofundamento: O desenvolvimento de tecnologia exige testes e manutenção constantes.
+0104 | Meio ambiente | Florestas abrigam espécies e contribuem para o equilíbrio ecológico.
+0105 | Meio ambiente | Ponto de estudo: Florestas abrigam espécies e contribuem para o equilíbrio ecológico.
+0106 | Meio ambiente | Para discussão em sala: Florestas abrigam espécies e contribuem para o equilíbrio ecológico.
+0107 | Meio ambiente | Anotação temática: Florestas abrigam espécies e contribuem para o equilíbrio ecológico.
+0108 | Meio ambiente | Ideia para aprofundamento: Florestas abrigam espécies e contribuem para o equilíbrio ecológico.
+0109 | Meio ambiente | Áreas úmidas ajudam a regular a água e sustentam biodiversidade.
+0110 | Meio ambiente | Ponto de estudo: Áreas úmidas ajudam a regular a água e sustentam biodiversidade.
+0111 | Meio ambiente | Para discussão em sala: Áreas úmidas ajudam a regular a água e sustentam biodiversidade.
+0112 | Meio ambiente | Anotação temática: Áreas úmidas ajudam a regular a água e sustentam biodiversidade.
+0113 | Meio ambiente | Ideia para aprofundamento: Áreas úmidas ajudam a regular a água e sustentam biodiversidade.
+0114 | Meio ambiente | A reciclagem pode reduzir a demanda por certas matérias-primas.
+0115 | Meio ambiente | Ponto de estudo: A reciclagem pode reduzir a demanda por certas matérias-primas.
+0116 | Meio ambiente | Para discussão em sala: A reciclagem pode reduzir a demanda por certas matérias-primas.
+0117 | Meio ambiente | Anotação temática: A reciclagem pode reduzir a demanda por certas matérias-primas.
+0118 | Meio ambiente | Ideia para aprofundamento: A reciclagem pode reduzir a demanda por certas matérias-primas.
+0119 | Meio ambiente | O desperdício de alimentos representa uso desnecessário de recursos.
+0120 | Meio ambiente | Ponto de estudo: O desperdício de alimentos representa uso desnecessário de recursos.
+0121 | Meio ambiente | Para discussão em sala: O desperdício de alimentos representa uso desnecessário de recursos.
+0122 | Meio ambiente | Anotação temática: O desperdício de alimentos representa uso desnecessário de recursos.
+0123 | Meio ambiente | Ideia para aprofundamento: O desperdício de alimentos representa uso desnecessário de recursos.
+0124 | Meio ambiente | Fontes renováveis de energia podem reduzir emissões de gases de efeito estufa.
+0125 | Meio ambiente | Ponto de estudo: Fontes renováveis de energia podem reduzir emissões de gases de efeito estufa.
+0126 | Meio ambiente | Para discussão em sala: Fontes renováveis de energia podem reduzir emissões de gases de efeito estufa.
+0127 | Meio ambiente | Anotação temática: Fontes renováveis de energia podem reduzir emissões de gases de efeito estufa.
+0128 | Meio ambiente | Ideia para aprofundamento: Fontes renováveis de energia podem reduzir emissões de gases de efeito estufa.
+0129 | Meio ambiente | A proteção de nascentes favorece a segurança hídrica.
+0130 | Meio ambiente | Ponto de estudo: A proteção de nascentes favorece a segurança hídrica.
+0131 | Meio ambiente | Para discussão em sala: A proteção de nascentes favorece a segurança hídrica.
+0132 | Meio ambiente | Anotação temática: A proteção de nascentes favorece a segurança hídrica.
+0133 | Meio ambiente | Ideia para aprofundamento: A proteção de nascentes favorece a segurança hídrica.
+0134 | Meio ambiente | O descarte inadequado de resíduos pode contaminar solos e rios.
+0135 | Meio ambiente | Ponto de estudo: O descarte inadequado de resíduos pode contaminar solos e rios.
+0136 | Meio ambiente | Para discussão em sala: O descarte inadequado de resíduos pode contaminar solos e rios.
+0137 | Meio ambiente | Anotação temática: O descarte inadequado de resíduos pode contaminar solos e rios.
+0138 | Meio ambiente | Ideia para aprofundamento: O descarte inadequado de resíduos pode contaminar solos e rios.
+0139 | Meio ambiente | Espécies invasoras podem alterar ecossistemas locais.
+0140 | Meio ambiente | Ponto de estudo: Espécies invasoras podem alterar ecossistemas locais.
+0141 | Meio ambiente | Para discussão em sala: Espécies invasoras podem alterar ecossistemas locais.
+0142 | Meio ambiente | Anotação temática: Espécies invasoras podem alterar ecossistemas locais.
+0143 | Meio ambiente | Ideia para aprofundamento: Espécies invasoras podem alterar ecossistemas locais.
+0144 | Meio ambiente | O planejamento urbano influencia a qualidade ambiental das cidades.
+0145 | Meio ambiente | Ponto de estudo: O planejamento urbano influencia a qualidade ambiental das cidades.
+0146 | Meio ambiente | Para discussão em sala: O planejamento urbano influencia a qualidade ambiental das cidades.
+0147 | Meio ambiente | Anotação temática: O planejamento urbano influencia a qualidade ambiental das cidades.
+0148 | Meio ambiente | Ideia para aprofundamento: O planejamento urbano influencia a qualidade ambiental das cidades.
+0149 | Meio ambiente | O consumo consciente considera a origem e a durabilidade dos produtos.
+0150 | Meio ambiente | Ponto de estudo: O consumo consciente considera a origem e a durabilidade dos produtos.
+0151 | Meio ambiente | Para discussão em sala: O consumo consciente considera a origem e a durabilidade dos produtos.
+0152 | Meio ambiente | Anotação temática: O consumo consciente considera a origem e a durabilidade dos produtos.
+0153 | Meio ambiente | Ideia para aprofundamento: O consumo consciente considera a origem e a durabilidade dos produtos.
+0154 | História | Fontes históricas incluem documentos, objetos, relatos e imagens.
+0155 | História | Ponto de estudo: Fontes históricas incluem documentos, objetos, relatos e imagens.
+0156 | História | Para discussão em sala: Fontes históricas incluem documentos, objetos, relatos e imagens.
+0157 | História | Anotação temática: Fontes históricas incluem documentos, objetos, relatos e imagens.
+0158 | História | Ideia para aprofundamento: Fontes históricas incluem documentos, objetos, relatos e imagens.
+0159 | História | Civilizações antigas desenvolveram diferentes sistemas de escrita.
+0160 | História | Ponto de estudo: Civilizações antigas desenvolveram diferentes sistemas de escrita.
+0161 | História | Para discussão em sala: Civilizações antigas desenvolveram diferentes sistemas de escrita.
+0162 | História | Anotação temática: Civilizações antigas desenvolveram diferentes sistemas de escrita.
+0163 | História | Ideia para aprofundamento: Civilizações antigas desenvolveram diferentes sistemas de escrita.
+0164 | História | Rotas comerciais favoreceram intercâmbios culturais ao longo dos séculos.
+0165 | História | Ponto de estudo: Rotas comerciais favoreceram intercâmbios culturais ao longo dos séculos.
+0166 | História | Para discussão em sala: Rotas comerciais favoreceram intercâmbios culturais ao longo dos séculos.
+0167 | História | Anotação temática: Rotas comerciais favoreceram intercâmbios culturais ao longo dos séculos.
+0168 | História | Ideia para aprofundamento: Rotas comerciais favoreceram intercâmbios culturais ao longo dos séculos.
+0169 | História | A agricultura transformou formas de organização de comunidades humanas.
+0170 | História | Ponto de estudo: A agricultura transformou formas de organização de comunidades humanas.
+0171 | História | Para discussão em sala: A agricultura transformou formas de organização de comunidades humanas.
+0172 | História | Anotação temática: A agricultura transformou formas de organização de comunidades humanas.
+0173 | História | Ideia para aprofundamento: A agricultura transformou formas de organização de comunidades humanas.
+0174 | História | Revoluções políticas alteraram instituições e relações de poder.
+0175 | História | Ponto de estudo: Revoluções políticas alteraram instituições e relações de poder.
+0176 | História | Para discussão em sala: Revoluções políticas alteraram instituições e relações de poder.
+0177 | História | Anotação temática: Revoluções políticas alteraram instituições e relações de poder.
+0178 | História | Ideia para aprofundamento: Revoluções políticas alteraram instituições e relações de poder.
+0179 | História | Avanços na navegação ampliaram contatos entre regiões distantes.
+0180 | História | Ponto de estudo: Avanços na navegação ampliaram contatos entre regiões distantes.
+0181 | História | Para discussão em sala: Avanços na navegação ampliaram contatos entre regiões distantes.
+0182 | História | Anotação temática: Avanços na navegação ampliaram contatos entre regiões distantes.
+0183 | História | Ideia para aprofundamento: Avanços na navegação ampliaram contatos entre regiões distantes.
+0184 | História | A industrialização modificou o trabalho e a vida urbana.
+0185 | História | Ponto de estudo: A industrialização modificou o trabalho e a vida urbana.
+0186 | História | Para discussão em sala: A industrialização modificou o trabalho e a vida urbana.
+0187 | História | Anotação temática: A industrialização modificou o trabalho e a vida urbana.
+0188 | História | Ideia para aprofundamento: A industrialização modificou o trabalho e a vida urbana.
+0189 | História | A preservação de arquivos contribui para a memória coletiva.
+0190 | História | Ponto de estudo: A preservação de arquivos contribui para a memória coletiva.
+0191 | História | Para discussão em sala: A preservação de arquivos contribui para a memória coletiva.
+0192 | História | Anotação temática: A preservação de arquivos contribui para a memória coletiva.
+0193 | História | Ideia para aprofundamento: A preservação de arquivos contribui para a memória coletiva.
+0194 | História | A história oral registra experiências nem sempre presentes em documentos.
+0195 | História | Ponto de estudo: A história oral registra experiências nem sempre presentes em documentos.
+0196 | História | Para discussão em sala: A história oral registra experiências nem sempre presentes em documentos.
+0197 | História | Anotação temática: A história oral registra experiências nem sempre presentes em documentos.
+0198 | História | Ideia para aprofundamento: A história oral registra experiências nem sempre presentes em documentos.
+0199 | História | Interpretações históricas podem mudar com o surgimento de novas evidências.
+0200 | História | Ponto de estudo: Interpretações históricas podem mudar com o surgimento de novas evidências.
+0201 | História | Para discussão em sala: Interpretações históricas podem mudar com o surgimento de novas evidências.
+0202 | História | Anotação temática: Interpretações históricas podem mudar com o surgimento de novas evidências.
+0203 | História | Ideia para aprofundamento: Interpretações históricas podem mudar com o surgimento de novas evidências.
+0204 | Geografia | Mapas representam características do espaço geográfico.
+0205 | Geografia | Ponto de estudo: Mapas representam características do espaço geográfico.
+0206 | Geografia | Para discussão em sala: Mapas representam características do espaço geográfico.
+0207 | Geografia | Anotação temática: Mapas representam características do espaço geográfico.
+0208 | Geografia | Ideia para aprofundamento: Mapas representam características do espaço geográfico.
+0209 | Geografia | A latitude indica a posição ao norte ou ao sul do Equador.
+0210 | Geografia | Ponto de estudo: A latitude indica a posição ao norte ou ao sul do Equador.
+0211 | Geografia | Para discussão em sala: A latitude indica a posição ao norte ou ao sul do Equador.
+0212 | Geografia | Anotação temática: A latitude indica a posição ao norte ou ao sul do Equador.
+0213 | Geografia | Ideia para aprofundamento: A latitude indica a posição ao norte ou ao sul do Equador.
+0214 | Geografia | A longitude indica a posição a leste ou a oeste de Greenwich.
+0215 | Geografia | Ponto de estudo: A longitude indica a posição a leste ou a oeste de Greenwich.
+0216 | Geografia | Para discussão em sala: A longitude indica a posição a leste ou a oeste de Greenwich.
+0217 | Geografia | Anotação temática: A longitude indica a posição a leste ou a oeste de Greenwich.
+0218 | Geografia | Ideia para aprofundamento: A longitude indica a posição a leste ou a oeste de Greenwich.
+0219 | Geografia | O relevo influencia a circulação de água e a ocupação humana.
+0220 | Geografia | Ponto de estudo: O relevo influencia a circulação de água e a ocupação humana.
+0221 | Geografia | Para discussão em sala: O relevo influencia a circulação de água e a ocupação humana.
+0222 | Geografia | Anotação temática: O relevo influencia a circulação de água e a ocupação humana.
+0223 | Geografia | Ideia para aprofundamento: O relevo influencia a circulação de água e a ocupação humana.
+0224 | Geografia | Climas regionais resultam da interação de diversos fatores naturais.
+0225 | Geografia | Ponto de estudo: Climas regionais resultam da interação de diversos fatores naturais.
+0226 | Geografia | Para discussão em sala: Climas regionais resultam da interação de diversos fatores naturais.
+0227 | Geografia | Anotação temática: Climas regionais resultam da interação de diversos fatores naturais.
+0228 | Geografia | Ideia para aprofundamento: Climas regionais resultam da interação de diversos fatores naturais.
+0229 | Geografia | Bacias hidrográficas reúnem cursos d'água conectados.
+0230 | Geografia | Ponto de estudo: Bacias hidrográficas reúnem cursos d'água conectados.
+0231 | Geografia | Para discussão em sala: Bacias hidrográficas reúnem cursos d'água conectados.
+0232 | Geografia | Anotação temática: Bacias hidrográficas reúnem cursos d'água conectados.
+0233 | Geografia | Ideia para aprofundamento: Bacias hidrográficas reúnem cursos d'água conectados.
+0234 | Geografia | A urbanização transforma paisagens e padrões de mobilidade.
+0235 | Geografia | Ponto de estudo: A urbanização transforma paisagens e padrões de mobilidade.
+0236 | Geografia | Para discussão em sala: A urbanização transforma paisagens e padrões de mobilidade.
+0237 | Geografia | Anotação temática: A urbanização transforma paisagens e padrões de mobilidade.
+0238 | Geografia | Ideia para aprofundamento: A urbanização transforma paisagens e padrões de mobilidade.
+0239 | Geografia | Fronteiras podem refletir processos históricos e decisões políticas.
+0240 | Geografia | Ponto de estudo: Fronteiras podem refletir processos históricos e decisões políticas.
+0241 | Geografia | Para discussão em sala: Fronteiras podem refletir processos históricos e decisões políticas.
+0242 | Geografia | Anotação temática: Fronteiras podem refletir processos históricos e decisões políticas.
+0243 | Geografia | Ideia para aprofundamento: Fronteiras podem refletir processos históricos e decisões políticas.
+0244 | Geografia | Imagens de satélite auxiliam no monitoramento do território.
+0245 | Geografia | Ponto de estudo: Imagens de satélite auxiliam no monitoramento do território.
+0246 | Geografia | Para discussão em sala: Imagens de satélite auxiliam no monitoramento do território.
+0247 | Geografia | Anotação temática: Imagens de satélite auxiliam no monitoramento do território.
+0248 | Geografia | Ideia para aprofundamento: Imagens de satélite auxiliam no monitoramento do território.
+0249 | Geografia | A escala de um mapa relaciona distâncias representadas e reais.
+0250 | Geografia | Ponto de estudo: A escala de um mapa relaciona distâncias representadas e reais.
+0251 | Geografia | Para discussão em sala: A escala de um mapa relaciona distâncias representadas e reais.
+0252 | Geografia | Anotação temática: A escala de um mapa relaciona distâncias representadas e reais.
+0253 | Geografia | Ideia para aprofundamento: A escala de um mapa relaciona distâncias representadas e reais.
+0254 | Matemática | Números primos possuem exatamente dois divisores positivos distintos.
+0255 | Matemática | Ponto de estudo: Números primos possuem exatamente dois divisores positivos distintos.
+0256 | Matemática | Para discussão em sala: Números primos possuem exatamente dois divisores positivos distintos.
+0257 | Matemática | Anotação temática: Números primos possuem exatamente dois divisores positivos distintos.
+0258 | Matemática | Ideia para aprofundamento: Números primos possuem exatamente dois divisores positivos distintos.
+0259 | Matemática | Frações representam partes de um todo ou razões entre quantidades.
+0260 | Matemática | Ponto de estudo: Frações representam partes de um todo ou razões entre quantidades.
+0261 | Matemática | Para discussão em sala: Frações representam partes de um todo ou razões entre quantidades.
+0262 | Matemática | Anotação temática: Frações representam partes de um todo ou razões entre quantidades.
+0263 | Matemática | Ideia para aprofundamento: Frações representam partes de um todo ou razões entre quantidades.
+0264 | Matemática | Equações expressam relações entre valores conhecidos e desconhecidos.
+0265 | Matemática | Ponto de estudo: Equações expressam relações entre valores conhecidos e desconhecidos.
+0266 | Matemática | Para discussão em sala: Equações expressam relações entre valores conhecidos e desconhecidos.
+0267 | Matemática | Anotação temática: Equações expressam relações entre valores conhecidos e desconhecidos.
+0268 | Matemática | Ideia para aprofundamento: Equações expressam relações entre valores conhecidos e desconhecidos.
+0269 | Matemática | Geometria estuda propriedades de formas, ângulos e espaços.
+0270 | Matemática | Ponto de estudo: Geometria estuda propriedades de formas, ângulos e espaços.
+0271 | Matemática | Para discussão em sala: Geometria estuda propriedades de formas, ângulos e espaços.
+0272 | Matemática | Anotação temática: Geometria estuda propriedades de formas, ângulos e espaços.
+0273 | Matemática | Ideia para aprofundamento: Geometria estuda propriedades de formas, ângulos e espaços.
+0274 | Matemática | Porcentagens facilitam comparações proporcionais.
+0275 | Matemática | Ponto de estudo: Porcentagens facilitam comparações proporcionais.
+0276 | Matemática | Para discussão em sala: Porcentagens facilitam comparações proporcionais.
+0277 | Matemática | Anotação temática: Porcentagens facilitam comparações proporcionais.
+0278 | Matemática | Ideia para aprofundamento: Porcentagens facilitam comparações proporcionais.
+0279 | Matemática | Probabilidade descreve a chance de ocorrência de eventos.
+0280 | Matemática | Ponto de estudo: Probabilidade descreve a chance de ocorrência de eventos.
+0281 | Matemática | Para discussão em sala: Probabilidade descreve a chance de ocorrência de eventos.
+0282 | Matemática | Anotação temática: Probabilidade descreve a chance de ocorrência de eventos.
+0283 | Matemática | Ideia para aprofundamento: Probabilidade descreve a chance de ocorrência de eventos.
+0284 | Matemática | Estatística organiza e interpreta conjuntos de dados.
+0285 | Matemática | Ponto de estudo: Estatística organiza e interpreta conjuntos de dados.
+0286 | Matemática | Para discussão em sala: Estatística organiza e interpreta conjuntos de dados.
+0287 | Matemática | Anotação temática: Estatística organiza e interpreta conjuntos de dados.
+0288 | Matemática | Ideia para aprofundamento: Estatística organiza e interpreta conjuntos de dados.
+0289 | Matemática | Funções relacionam entradas a saídas segundo uma regra.
+0290 | Matemática | Ponto de estudo: Funções relacionam entradas a saídas segundo uma regra.
+0291 | Matemática | Para discussão em sala: Funções relacionam entradas a saídas segundo uma regra.
+0292 | Matemática | Anotação temática: Funções relacionam entradas a saídas segundo uma regra.
+0293 | Matemática | Ideia para aprofundamento: Funções relacionam entradas a saídas segundo uma regra.
+0294 | Matemática | Sequências numéricas podem seguir padrões definidos.
+0295 | Matemática | Ponto de estudo: Sequências numéricas podem seguir padrões definidos.
+0296 | Matemática | Para discussão em sala: Sequências numéricas podem seguir padrões definidos.
+0297 | Matemática | Anotação temática: Sequências numéricas podem seguir padrões definidos.
+0298 | Matemática | Ideia para aprofundamento: Sequências numéricas podem seguir padrões definidos.
+0299 | Matemática | O raciocínio lógico ajuda a identificar conclusões válidas.
+0300 | Matemática | Ponto de estudo: O raciocínio lógico ajuda a identificar conclusões válidas.
+0301 | Matemática | Para discussão em sala: O raciocínio lógico ajuda a identificar conclusões válidas.
+0302 | Matemática | Anotação temática: O raciocínio lógico ajuda a identificar conclusões válidas.
+0303 | Matemática | Ideia para aprofundamento: O raciocínio lógico ajuda a identificar conclusões válidas.
+0304 | Literatura | A literatura explora experiências humanas por meio da linguagem.
+0305 | Literatura | Ponto de estudo: A literatura explora experiências humanas por meio da linguagem.
+0306 | Literatura | Para discussão em sala: A literatura explora experiências humanas por meio da linguagem.
+0307 | Literatura | Anotação temática: A literatura explora experiências humanas por meio da linguagem.
+0308 | Literatura | Ideia para aprofundamento: A literatura explora experiências humanas por meio da linguagem.
+0309 | Literatura | Romances frequentemente apresentam personagens e conflitos complexos.
+0310 | Literatura | Ponto de estudo: Romances frequentemente apresentam personagens e conflitos complexos.
+0311 | Literatura | Para discussão em sala: Romances frequentemente apresentam personagens e conflitos complexos.
+0312 | Literatura | Anotação temática: Romances frequentemente apresentam personagens e conflitos complexos.
+0313 | Literatura | Ideia para aprofundamento: Romances frequentemente apresentam personagens e conflitos complexos.
+0314 | Literatura | Poemas podem explorar ritmo, imagens e sonoridade.
+0315 | Literatura | Ponto de estudo: Poemas podem explorar ritmo, imagens e sonoridade.
+0316 | Literatura | Para discussão em sala: Poemas podem explorar ritmo, imagens e sonoridade.
+0317 | Literatura | Anotação temática: Poemas podem explorar ritmo, imagens e sonoridade.
+0318 | Literatura | Ideia para aprofundamento: Poemas podem explorar ritmo, imagens e sonoridade.
+0319 | Literatura | Contos costumam concentrar a narrativa em poucos acontecimentos.
+0320 | Literatura | Ponto de estudo: Contos costumam concentrar a narrativa em poucos acontecimentos.
+0321 | Literatura | Para discussão em sala: Contos costumam concentrar a narrativa em poucos acontecimentos.
+0322 | Literatura | Anotação temática: Contos costumam concentrar a narrativa em poucos acontecimentos.
+0323 | Literatura | Ideia para aprofundamento: Contos costumam concentrar a narrativa em poucos acontecimentos.
+0324 | Literatura | O narrador determina a perspectiva a partir da qual a história é contada.
+0325 | Literatura | Ponto de estudo: O narrador determina a perspectiva a partir da qual a história é contada.
+0326 | Literatura | Para discussão em sala: O narrador determina a perspectiva a partir da qual a história é contada.
+0327 | Literatura | Anotação temática: O narrador determina a perspectiva a partir da qual a história é contada.
+0328 | Literatura | Ideia para aprofundamento: O narrador determina a perspectiva a partir da qual a história é contada.
+0329 | Literatura | Metáforas criam relações expressivas entre ideias distintas.
+0330 | Literatura | Ponto de estudo: Metáforas criam relações expressivas entre ideias distintas.
+0331 | Literatura | Para discussão em sala: Metáforas criam relações expressivas entre ideias distintas.
+0332 | Literatura | Anotação temática: Metáforas criam relações expressivas entre ideias distintas.
+0333 | Literatura | Ideia para aprofundamento: Metáforas criam relações expressivas entre ideias distintas.
+0334 | Literatura | Bibliotecas ampliam o acesso à leitura e à informação.
+0335 | Literatura | Ponto de estudo: Bibliotecas ampliam o acesso à leitura e à informação.
+0336 | Literatura | Para discussão em sala: Bibliotecas ampliam o acesso à leitura e à informação.
+0337 | Literatura | Anotação temática: Bibliotecas ampliam o acesso à leitura e à informação.
+0338 | Literatura | Ideia para aprofundamento: Bibliotecas ampliam o acesso à leitura e à informação.
+0339 | Literatura | A tradução literária envolve escolhas culturais e estilísticas.
+0340 | Literatura | Ponto de estudo: A tradução literária envolve escolhas culturais e estilísticas.
+0341 | Literatura | Para discussão em sala: A tradução literária envolve escolhas culturais e estilísticas.
+0342 | Literatura | Anotação temática: A tradução literária envolve escolhas culturais e estilísticas.
+0343 | Literatura | Ideia para aprofundamento: A tradução literária envolve escolhas culturais e estilísticas.
+0344 | Literatura | Clubes de leitura estimulam interpretações compartilhadas.
+0345 | Literatura | Ponto de estudo: Clubes de leitura estimulam interpretações compartilhadas.
+0346 | Literatura | Para discussão em sala: Clubes de leitura estimulam interpretações compartilhadas.
+0347 | Literatura | Anotação temática: Clubes de leitura estimulam interpretações compartilhadas.
+0348 | Literatura | Ideia para aprofundamento: Clubes de leitura estimulam interpretações compartilhadas.
+0349 | Literatura | Gêneros literários mudam conforme épocas e culturas.
+0350 | Literatura | Ponto de estudo: Gêneros literários mudam conforme épocas e culturas.
+0351 | Literatura | Para discussão em sala: Gêneros literários mudam conforme épocas e culturas.
+0352 | Literatura | Anotação temática: Gêneros literários mudam conforme épocas e culturas.
+0353 | Literatura | Ideia para aprofundamento: Gêneros literários mudam conforme épocas e culturas.
+0354 | Arte | Pinturas podem expressar ideias por meio de cores e composição.
+0355 | Arte | Ponto de estudo: Pinturas podem expressar ideias por meio de cores e composição.
+0356 | Arte | Para discussão em sala: Pinturas podem expressar ideias por meio de cores e composição.
+0357 | Arte | Anotação temática: Pinturas podem expressar ideias por meio de cores e composição.
+0358 | Arte | Ideia para aprofundamento: Pinturas podem expressar ideias por meio de cores e composição.
+0359 | Arte | Esculturas exploram volume, textura e materialidade.
+0360 | Arte | Ponto de estudo: Esculturas exploram volume, textura e materialidade.
+0361 | Arte | Para discussão em sala: Esculturas exploram volume, textura e materialidade.
+0362 | Arte | Anotação temática: Esculturas exploram volume, textura e materialidade.
+0363 | Arte | Ideia para aprofundamento: Esculturas exploram volume, textura e materialidade.
+0364 | Arte | Fotografia combina escolhas técnicas e enquadramento visual.
+0365 | Arte | Ponto de estudo: Fotografia combina escolhas técnicas e enquadramento visual.
+0366 | Arte | Para discussão em sala: Fotografia combina escolhas técnicas e enquadramento visual.
+0367 | Arte | Anotação temática: Fotografia combina escolhas técnicas e enquadramento visual.
+0368 | Arte | Ideia para aprofundamento: Fotografia combina escolhas técnicas e enquadramento visual.
+0369 | Arte | Murais transformam paredes em espaços de comunicação artística.
+0370 | Arte | Ponto de estudo: Murais transformam paredes em espaços de comunicação artística.
+0371 | Arte | Para discussão em sala: Murais transformam paredes em espaços de comunicação artística.
+0372 | Arte | Anotação temática: Murais transformam paredes em espaços de comunicação artística.
+0373 | Arte | Ideia para aprofundamento: Murais transformam paredes em espaços de comunicação artística.
+0374 | Arte | Instalações artísticas podem envolver o ambiente e o público.
+0375 | Arte | Ponto de estudo: Instalações artísticas podem envolver o ambiente e o público.
+0376 | Arte | Para discussão em sala: Instalações artísticas podem envolver o ambiente e o público.
+0377 | Arte | Anotação temática: Instalações artísticas podem envolver o ambiente e o público.
+0378 | Arte | Ideia para aprofundamento: Instalações artísticas podem envolver o ambiente e o público.
+0379 | Arte | Perspectiva cria a sensação de profundidade em superfícies planas.
+0380 | Arte | Ponto de estudo: Perspectiva cria a sensação de profundidade em superfícies planas.
+0381 | Arte | Para discussão em sala: Perspectiva cria a sensação de profundidade em superfícies planas.
+0382 | Arte | Anotação temática: Perspectiva cria a sensação de profundidade em superfícies planas.
+0383 | Arte | Ideia para aprofundamento: Perspectiva cria a sensação de profundidade em superfícies planas.
+0384 | Arte | Contrastes cromáticos direcionam a atenção do observador.
+0385 | Arte | Ponto de estudo: Contrastes cromáticos direcionam a atenção do observador.
+0386 | Arte | Para discussão em sala: Contrastes cromáticos direcionam a atenção do observador.
+0387 | Arte | Anotação temática: Contrastes cromáticos direcionam a atenção do observador.
+0388 | Arte | Ideia para aprofundamento: Contrastes cromáticos direcionam a atenção do observador.
+0389 | Arte | Museus conservam e apresentam patrimônios artísticos.
+0390 | Arte | Ponto de estudo: Museus conservam e apresentam patrimônios artísticos.
+0391 | Arte | Para discussão em sala: Museus conservam e apresentam patrimônios artísticos.
+0392 | Arte | Anotação temática: Museus conservam e apresentam patrimônios artísticos.
+0393 | Arte | Ideia para aprofundamento: Museus conservam e apresentam patrimônios artísticos.
+0394 | Arte | Artesanato conecta técnicas manuais e tradições culturais.
+0395 | Arte | Ponto de estudo: Artesanato conecta técnicas manuais e tradições culturais.
+0396 | Arte | Para discussão em sala: Artesanato conecta técnicas manuais e tradições culturais.
+0397 | Arte | Anotação temática: Artesanato conecta técnicas manuais e tradições culturais.
+0398 | Arte | Ideia para aprofundamento: Artesanato conecta técnicas manuais e tradições culturais.
+0399 | Arte | A interpretação de uma obra pode variar entre espectadores.
+0400 | Arte | Ponto de estudo: A interpretação de uma obra pode variar entre espectadores.
+0401 | Arte | Para discussão em sala: A interpretação de uma obra pode variar entre espectadores.
+0402 | Arte | Anotação temática: A interpretação de uma obra pode variar entre espectadores.
+0403 | Arte | Ideia para aprofundamento: A interpretação de uma obra pode variar entre espectadores.
+0404 | Música | O ritmo organiza durações e acentos dos sons.
+0405 | Música | Ponto de estudo: O ritmo organiza durações e acentos dos sons.
+0406 | Música | Para discussão em sala: O ritmo organiza durações e acentos dos sons.
+0407 | Música | Anotação temática: O ritmo organiza durações e acentos dos sons.
+0408 | Música | Ideia para aprofundamento: O ritmo organiza durações e acentos dos sons.
+0409 | Música | A melodia forma sequências de notas percebidas como unidade.
+0410 | Música | Ponto de estudo: A melodia forma sequências de notas percebidas como unidade.
+0411 | Música | Para discussão em sala: A melodia forma sequências de notas percebidas como unidade.
+0412 | Música | Anotação temática: A melodia forma sequências de notas percebidas como unidade.
+0413 | Música | Ideia para aprofundamento: A melodia forma sequências de notas percebidas como unidade.
+0414 | Música | A harmonia descreve relações entre sons simultâneos.
+0415 | Música | Ponto de estudo: A harmonia descreve relações entre sons simultâneos.
+0416 | Música | Para discussão em sala: A harmonia descreve relações entre sons simultâneos.
+0417 | Música | Anotação temática: A harmonia descreve relações entre sons simultâneos.
+0418 | Música | Ideia para aprofundamento: A harmonia descreve relações entre sons simultâneos.
+0419 | Música | Instrumentos de cordas produzem som pela vibração de fios.
+0420 | Música | Ponto de estudo: Instrumentos de cordas produzem som pela vibração de fios.
+0421 | Música | Para discussão em sala: Instrumentos de cordas produzem som pela vibração de fios.
+0422 | Música | Anotação temática: Instrumentos de cordas produzem som pela vibração de fios.
+0423 | Música | Ideia para aprofundamento: Instrumentos de cordas produzem som pela vibração de fios.
+0424 | Música | Instrumentos de sopro utilizam a vibração de colunas de ar.
+0425 | Música | Ponto de estudo: Instrumentos de sopro utilizam a vibração de colunas de ar.
+0426 | Música | Para discussão em sala: Instrumentos de sopro utilizam a vibração de colunas de ar.
+0427 | Música | Anotação temática: Instrumentos de sopro utilizam a vibração de colunas de ar.
+0428 | Música | Ideia para aprofundamento: Instrumentos de sopro utilizam a vibração de colunas de ar.
+0429 | Música | Percussão pode marcar pulsos e criar texturas sonoras.
+0430 | Música | Ponto de estudo: Percussão pode marcar pulsos e criar texturas sonoras.
+0431 | Música | Para discussão em sala: Percussão pode marcar pulsos e criar texturas sonoras.
+0432 | Música | Anotação temática: Percussão pode marcar pulsos e criar texturas sonoras.
+0433 | Música | Ideia para aprofundamento: Percussão pode marcar pulsos e criar texturas sonoras.
+0434 | Música | Partituras registram informações para a execução musical.
+0435 | Música | Ponto de estudo: Partituras registram informações para a execução musical.
+0436 | Música | Para discussão em sala: Partituras registram informações para a execução musical.
+0437 | Música | Anotação temática: Partituras registram informações para a execução musical.
+0438 | Música | Ideia para aprofundamento: Partituras registram informações para a execução musical.
+0439 | Música | Improvisação envolve criação durante a apresentação.
+0440 | Música | Ponto de estudo: Improvisação envolve criação durante a apresentação.
+0441 | Música | Para discussão em sala: Improvisação envolve criação durante a apresentação.
+0442 | Música | Anotação temática: Improvisação envolve criação durante a apresentação.
+0443 | Música | Ideia para aprofundamento: Improvisação envolve criação durante a apresentação.
+0444 | Música | Estilos musicais refletem encontros entre culturas e épocas.
+0445 | Música | Ponto de estudo: Estilos musicais refletem encontros entre culturas e épocas.
+0446 | Música | Para discussão em sala: Estilos musicais refletem encontros entre culturas e épocas.
+0447 | Música | Anotação temática: Estilos musicais refletem encontros entre culturas e épocas.
+0448 | Música | Ideia para aprofundamento: Estilos musicais refletem encontros entre culturas e épocas.
+0449 | Música | A acústica estuda como o som se propaga nos ambientes.
+0450 | Música | Ponto de estudo: A acústica estuda como o som se propaga nos ambientes.
+0451 | Música | Para discussão em sala: A acústica estuda como o som se propaga nos ambientes.
+0452 | Música | Anotação temática: A acústica estuda como o som se propaga nos ambientes.
+0453 | Música | Ideia para aprofundamento: A acústica estuda como o som se propaga nos ambientes.
+0454 | Saúde pública | A vacinação é uma ferramenta importante de prevenção de doenças.
+0455 | Saúde pública | Ponto de estudo: A vacinação é uma ferramenta importante de prevenção de doenças.
+0456 | Saúde pública | Para discussão em sala: A vacinação é uma ferramenta importante de prevenção de doenças.
+0457 | Saúde pública | Anotação temática: A vacinação é uma ferramenta importante de prevenção de doenças.
+0458 | Saúde pública | Ideia para aprofundamento: A vacinação é uma ferramenta importante de prevenção de doenças.
+0459 | Saúde pública | O saneamento básico contribui para reduzir riscos sanitários.
+0460 | Saúde pública | Ponto de estudo: O saneamento básico contribui para reduzir riscos sanitários.
+0461 | Saúde pública | Para discussão em sala: O saneamento básico contribui para reduzir riscos sanitários.
+0462 | Saúde pública | Anotação temática: O saneamento básico contribui para reduzir riscos sanitários.
+0463 | Saúde pública | Ideia para aprofundamento: O saneamento básico contribui para reduzir riscos sanitários.
+0464 | Saúde pública | A água potável é essencial para a saúde das comunidades.
+0465 | Saúde pública | Ponto de estudo: A água potável é essencial para a saúde das comunidades.
+0466 | Saúde pública | Para discussão em sala: A água potável é essencial para a saúde das comunidades.
+0467 | Saúde pública | Anotação temática: A água potável é essencial para a saúde das comunidades.
+0468 | Saúde pública | Ideia para aprofundamento: A água potável é essencial para a saúde das comunidades.
+0469 | Saúde pública | A vigilância epidemiológica acompanha padrões de doenças.
+0470 | Saúde pública | Ponto de estudo: A vigilância epidemiológica acompanha padrões de doenças.
+0471 | Saúde pública | Para discussão em sala: A vigilância epidemiológica acompanha padrões de doenças.
+0472 | Saúde pública | Anotação temática: A vigilância epidemiológica acompanha padrões de doenças.
+0473 | Saúde pública | Ideia para aprofundamento: A vigilância epidemiológica acompanha padrões de doenças.
+0474 | Saúde pública | Campanhas educativas podem promover hábitos preventivos.
+0475 | Saúde pública | Ponto de estudo: Campanhas educativas podem promover hábitos preventivos.
+0476 | Saúde pública | Para discussão em sala: Campanhas educativas podem promover hábitos preventivos.
+0477 | Saúde pública | Anotação temática: Campanhas educativas podem promover hábitos preventivos.
+0478 | Saúde pública | Ideia para aprofundamento: Campanhas educativas podem promover hábitos preventivos.
+0479 | Saúde pública | O acesso à atenção primária favorece o acompanhamento contínuo.
+0480 | Saúde pública | Ponto de estudo: O acesso à atenção primária favorece o acompanhamento contínuo.
+0481 | Saúde pública | Para discussão em sala: O acesso à atenção primária favorece o acompanhamento contínuo.
+0482 | Saúde pública | Anotação temática: O acesso à atenção primária favorece o acompanhamento contínuo.
+0483 | Saúde pública | Ideia para aprofundamento: O acesso à atenção primária favorece o acompanhamento contínuo.
+0484 | Saúde pública | Políticas de saúde pública consideram necessidades coletivas.
+0485 | Saúde pública | Ponto de estudo: Políticas de saúde pública consideram necessidades coletivas.
+0486 | Saúde pública | Para discussão em sala: Políticas de saúde pública consideram necessidades coletivas.
+0487 | Saúde pública | Anotação temática: Políticas de saúde pública consideram necessidades coletivas.
+0488 | Saúde pública | Ideia para aprofundamento: Políticas de saúde pública consideram necessidades coletivas.
+0489 | Saúde pública | A qualidade do ar influencia o bem-estar da população.
+0490 | Saúde pública | Ponto de estudo: A qualidade do ar influencia o bem-estar da população.
+0491 | Saúde pública | Para discussão em sala: A qualidade do ar influencia o bem-estar da população.
+0492 | Saúde pública | Anotação temática: A qualidade do ar influencia o bem-estar da população.
+0493 | Saúde pública | Ideia para aprofundamento: A qualidade do ar influencia o bem-estar da população.
+0494 | Saúde pública | A segurança alimentar envolve acesso regular a alimentos adequados.
+0495 | Saúde pública | Ponto de estudo: A segurança alimentar envolve acesso regular a alimentos adequados.
+0496 | Saúde pública | Para discussão em sala: A segurança alimentar envolve acesso regular a alimentos adequados.
+0497 | Saúde pública | Anotação temática: A segurança alimentar envolve acesso regular a alimentos adequados.
+0498 | Saúde pública | Ideia para aprofundamento: A segurança alimentar envolve acesso regular a alimentos adequados.
+0499 | Saúde pública | A comunicação clara melhora a compreensão de orientações de saúde.
+0500 | Saúde pública | Ponto de estudo: A comunicação clara melhora a compreensão de orientações de saúde.
+0501 | Saúde pública | Para discussão em sala: A comunicação clara melhora a compreensão de orientações de saúde.
+0502 | Saúde pública | Anotação temática: A comunicação clara melhora a compreensão de orientações de saúde.
+0503 | Saúde pública | Ideia para aprofundamento: A comunicação clara melhora a compreensão de orientações de saúde.
+0504 | Alimentação | Leguminosas são fontes importantes de proteínas e fibras.
+0505 | Alimentação | Ponto de estudo: Leguminosas são fontes importantes de proteínas e fibras.
+0506 | Alimentação | Para discussão em sala: Leguminosas são fontes importantes de proteínas e fibras.
+0507 | Alimentação | Anotação temática: Leguminosas são fontes importantes de proteínas e fibras.
+0508 | Alimentação | Ideia para aprofundamento: Leguminosas são fontes importantes de proteínas e fibras.
+0509 | Alimentação | Frutas oferecem diferentes vitaminas, minerais e compostos naturais.
+0510 | Alimentação | Ponto de estudo: Frutas oferecem diferentes vitaminas, minerais e compostos naturais.
+0511 | Alimentação | Para discussão em sala: Frutas oferecem diferentes vitaminas, minerais e compostos naturais.
+0512 | Alimentação | Anotação temática: Frutas oferecem diferentes vitaminas, minerais e compostos naturais.
+0513 | Alimentação | Ideia para aprofundamento: Frutas oferecem diferentes vitaminas, minerais e compostos naturais.
+0514 | Alimentação | Grãos integrais preservam mais componentes do grão original.
+0515 | Alimentação | Ponto de estudo: Grãos integrais preservam mais componentes do grão original.
+0516 | Alimentação | Para discussão em sala: Grãos integrais preservam mais componentes do grão original.
+0517 | Alimentação | Anotação temática: Grãos integrais preservam mais componentes do grão original.
+0518 | Alimentação | Ideia para aprofundamento: Grãos integrais preservam mais componentes do grão original.
+0519 | Alimentação | A hidratação é necessária para diversas funções do organismo.
+0520 | Alimentação | Ponto de estudo: A hidratação é necessária para diversas funções do organismo.
+0521 | Alimentação | Para discussão em sala: A hidratação é necessária para diversas funções do organismo.
+0522 | Alimentação | Anotação temática: A hidratação é necessária para diversas funções do organismo.
+0523 | Alimentação | Ideia para aprofundamento: A hidratação é necessária para diversas funções do organismo.
+0524 | Alimentação | O planejamento de refeições pode facilitar escolhas equilibradas.
+0525 | Alimentação | Ponto de estudo: O planejamento de refeições pode facilitar escolhas equilibradas.
+0526 | Alimentação | Para discussão em sala: O planejamento de refeições pode facilitar escolhas equilibradas.
+0527 | Alimentação | Anotação temática: O planejamento de refeições pode facilitar escolhas equilibradas.
+0528 | Alimentação | Ideia para aprofundamento: O planejamento de refeições pode facilitar escolhas equilibradas.
+0529 | Alimentação | Temperos naturais diversificam sabores e aromas.
+0530 | Alimentação | Ponto de estudo: Temperos naturais diversificam sabores e aromas.
+0531 | Alimentação | Para discussão em sala: Temperos naturais diversificam sabores e aromas.
+0532 | Alimentação | Anotação temática: Temperos naturais diversificam sabores e aromas.
+0533 | Alimentação | Ideia para aprofundamento: Temperos naturais diversificam sabores e aromas.
+0534 | Alimentação | A higiene no preparo dos alimentos reduz riscos de contaminação.
+0535 | Alimentação | Ponto de estudo: A higiene no preparo dos alimentos reduz riscos de contaminação.
+0536 | Alimentação | Para discussão em sala: A higiene no preparo dos alimentos reduz riscos de contaminação.
+0537 | Alimentação | Anotação temática: A higiene no preparo dos alimentos reduz riscos de contaminação.
+0538 | Alimentação | Ideia para aprofundamento: A higiene no preparo dos alimentos reduz riscos de contaminação.
+0539 | Alimentação | O armazenamento adequado ajuda a conservar alimentos.
+0540 | Alimentação | Ponto de estudo: O armazenamento adequado ajuda a conservar alimentos.
+0541 | Alimentação | Para discussão em sala: O armazenamento adequado ajuda a conservar alimentos.
+0542 | Alimentação | Anotação temática: O armazenamento adequado ajuda a conservar alimentos.
+0543 | Alimentação | Ideia para aprofundamento: O armazenamento adequado ajuda a conservar alimentos.
+0544 | Alimentação | Culturas diferentes desenvolvem tradições culinárias próprias.
+0545 | Alimentação | Ponto de estudo: Culturas diferentes desenvolvem tradições culinárias próprias.
+0546 | Alimentação | Para discussão em sala: Culturas diferentes desenvolvem tradições culinárias próprias.
+0547 | Alimentação | Anotação temática: Culturas diferentes desenvolvem tradições culinárias próprias.
+0548 | Alimentação | Ideia para aprofundamento: Culturas diferentes desenvolvem tradições culinárias próprias.
+0549 | Alimentação | Ler rótulos ajuda a conhecer ingredientes e informações nutricionais.
+0550 | Alimentação | Ponto de estudo: Ler rótulos ajuda a conhecer ingredientes e informações nutricionais.
+0551 | Alimentação | Para discussão em sala: Ler rótulos ajuda a conhecer ingredientes e informações nutricionais.
+0552 | Alimentação | Anotação temática: Ler rótulos ajuda a conhecer ingredientes e informações nutricionais.
+0553 | Alimentação | Ideia para aprofundamento: Ler rótulos ajuda a conhecer ingredientes e informações nutricionais.
+0554 | Esportes | A prática esportiva pode desenvolver coordenação e resistência.
+0555 | Esportes | Ponto de estudo: A prática esportiva pode desenvolver coordenação e resistência.
+0556 | Esportes | Para discussão em sala: A prática esportiva pode desenvolver coordenação e resistência.
+0557 | Esportes | Anotação temática: A prática esportiva pode desenvolver coordenação e resistência.
+0558 | Esportes | Ideia para aprofundamento: A prática esportiva pode desenvolver coordenação e resistência.
+0559 | Esportes | Esportes coletivos exigem cooperação e comunicação.
+0560 | Esportes | Ponto de estudo: Esportes coletivos exigem cooperação e comunicação.
+0561 | Esportes | Para discussão em sala: Esportes coletivos exigem cooperação e comunicação.
+0562 | Esportes | Anotação temática: Esportes coletivos exigem cooperação e comunicação.
+0563 | Esportes | Ideia para aprofundamento: Esportes coletivos exigem cooperação e comunicação.
+0564 | Esportes | O aquecimento prepara o corpo para esforços físicos.
+0565 | Esportes | Ponto de estudo: O aquecimento prepara o corpo para esforços físicos.
+0566 | Esportes | Para discussão em sala: O aquecimento prepara o corpo para esforços físicos.
+0567 | Esportes | Anotação temática: O aquecimento prepara o corpo para esforços físicos.
+0568 | Esportes | Ideia para aprofundamento: O aquecimento prepara o corpo para esforços físicos.
+0569 | Esportes | Regras claras tornam competições mais organizadas.
+0570 | Esportes | Ponto de estudo: Regras claras tornam competições mais organizadas.
+0571 | Esportes | Para discussão em sala: Regras claras tornam competições mais organizadas.
+0572 | Esportes | Anotação temática: Regras claras tornam competições mais organizadas.
+0573 | Esportes | Ideia para aprofundamento: Regras claras tornam competições mais organizadas.
+0574 | Esportes | A recuperação é parte importante da rotina de treinamento.
+0575 | Esportes | Ponto de estudo: A recuperação é parte importante da rotina de treinamento.
+0576 | Esportes | Para discussão em sala: A recuperação é parte importante da rotina de treinamento.
+0577 | Esportes | Anotação temática: A recuperação é parte importante da rotina de treinamento.
+0578 | Esportes | Ideia para aprofundamento: A recuperação é parte importante da rotina de treinamento.
+0579 | Esportes | Atividades aquáticas trabalham movimentos em um meio diferente.
+0580 | Esportes | Ponto de estudo: Atividades aquáticas trabalham movimentos em um meio diferente.
+0581 | Esportes | Para discussão em sala: Atividades aquáticas trabalham movimentos em um meio diferente.
+0582 | Esportes | Anotação temática: Atividades aquáticas trabalham movimentos em um meio diferente.
+0583 | Esportes | Ideia para aprofundamento: Atividades aquáticas trabalham movimentos em um meio diferente.
+0584 | Esportes | O atletismo reúne provas de corrida, salto e lançamento.
+0585 | Esportes | Ponto de estudo: O atletismo reúne provas de corrida, salto e lançamento.
+0586 | Esportes | Para discussão em sala: O atletismo reúne provas de corrida, salto e lançamento.
+0587 | Esportes | Anotação temática: O atletismo reúne provas de corrida, salto e lançamento.
+0588 | Esportes | Ideia para aprofundamento: O atletismo reúne provas de corrida, salto e lançamento.
+0589 | Esportes | O esporte adaptado amplia oportunidades de participação.
+0590 | Esportes | Ponto de estudo: O esporte adaptado amplia oportunidades de participação.
+0591 | Esportes | Para discussão em sala: O esporte adaptado amplia oportunidades de participação.
+0592 | Esportes | Anotação temática: O esporte adaptado amplia oportunidades de participação.
+0593 | Esportes | Ideia para aprofundamento: O esporte adaptado amplia oportunidades de participação.
+0594 | Esportes | A técnica influencia eficiência e segurança nos movimentos.
+0595 | Esportes | Ponto de estudo: A técnica influencia eficiência e segurança nos movimentos.
+0596 | Esportes | Para discussão em sala: A técnica influencia eficiência e segurança nos movimentos.
+0597 | Esportes | Anotação temática: A técnica influencia eficiência e segurança nos movimentos.
+0598 | Esportes | Ideia para aprofundamento: A técnica influencia eficiência e segurança nos movimentos.
+0599 | Esportes | O respeito aos adversários é componente do espírito esportivo.
+0600 | Esportes | Ponto de estudo: O respeito aos adversários é componente do espírito esportivo.
+0601 | Esportes | Para discussão em sala: O respeito aos adversários é componente do espírito esportivo.
+0602 | Esportes | Anotação temática: O respeito aos adversários é componente do espírito esportivo.
+0603 | Esportes | Ideia para aprofundamento: O respeito aos adversários é componente do espírito esportivo.
+0604 | Educação | A aprendizagem ativa incentiva a participação dos estudantes.
+0605 | Educação | Ponto de estudo: A aprendizagem ativa incentiva a participação dos estudantes.
+0606 | Educação | Para discussão em sala: A aprendizagem ativa incentiva a participação dos estudantes.
+0607 | Educação | Anotação temática: A aprendizagem ativa incentiva a participação dos estudantes.
+0608 | Educação | Ideia para aprofundamento: A aprendizagem ativa incentiva a participação dos estudantes.
+0609 | Educação | Perguntas bem formuladas ajudam a investigar conceitos.
+0610 | Educação | Ponto de estudo: Perguntas bem formuladas ajudam a investigar conceitos.
+0611 | Educação | Para discussão em sala: Perguntas bem formuladas ajudam a investigar conceitos.
+0612 | Educação | Anotação temática: Perguntas bem formuladas ajudam a investigar conceitos.
+0613 | Educação | Ideia para aprofundamento: Perguntas bem formuladas ajudam a investigar conceitos.
+0614 | Educação | Revisões espaçadas contribuem para consolidar conhecimentos.
+0615 | Educação | Ponto de estudo: Revisões espaçadas contribuem para consolidar conhecimentos.
+0616 | Educação | Para discussão em sala: Revisões espaçadas contribuem para consolidar conhecimentos.
+0617 | Educação | Anotação temática: Revisões espaçadas contribuem para consolidar conhecimentos.
+0618 | Educação | Ideia para aprofundamento: Revisões espaçadas contribuem para consolidar conhecimentos.
+0619 | Educação | Projetos interdisciplinares conectam diferentes áreas do saber.
+0620 | Educação | Ponto de estudo: Projetos interdisciplinares conectam diferentes áreas do saber.
+0621 | Educação | Para discussão em sala: Projetos interdisciplinares conectam diferentes áreas do saber.
+0622 | Educação | Anotação temática: Projetos interdisciplinares conectam diferentes áreas do saber.
+0623 | Educação | Ideia para aprofundamento: Projetos interdisciplinares conectam diferentes áreas do saber.
+0624 | Educação | Feedback específico orienta melhorias na aprendizagem.
+0625 | Educação | Ponto de estudo: Feedback específico orienta melhorias na aprendizagem.
+0626 | Educação | Para discussão em sala: Feedback específico orienta melhorias na aprendizagem.
+0627 | Educação | Anotação temática: Feedback específico orienta melhorias na aprendizagem.
+0628 | Educação | Ideia para aprofundamento: Feedback específico orienta melhorias na aprendizagem.
+0629 | Educação | Materiais acessíveis atendem a diferentes necessidades.
+0630 | Educação | Ponto de estudo: Materiais acessíveis atendem a diferentes necessidades.
+0631 | Educação | Para discussão em sala: Materiais acessíveis atendem a diferentes necessidades.
+0632 | Educação | Anotação temática: Materiais acessíveis atendem a diferentes necessidades.
+0633 | Educação | Ideia para aprofundamento: Materiais acessíveis atendem a diferentes necessidades.
+0634 | Educação | A leitura crítica avalia argumentos e evidências.
+0635 | Educação | Ponto de estudo: A leitura crítica avalia argumentos e evidências.
+0636 | Educação | Para discussão em sala: A leitura crítica avalia argumentos e evidências.
+0637 | Educação | Anotação temática: A leitura crítica avalia argumentos e evidências.
+0638 | Educação | Ideia para aprofundamento: A leitura crítica avalia argumentos e evidências.
+0639 | Educação | Experimentos didáticos aproximam teoria e prática.
+0640 | Educação | Ponto de estudo: Experimentos didáticos aproximam teoria e prática.
+0641 | Educação | Para discussão em sala: Experimentos didáticos aproximam teoria e prática.
+0642 | Educação | Anotação temática: Experimentos didáticos aproximam teoria e prática.
+0643 | Educação | Ideia para aprofundamento: Experimentos didáticos aproximam teoria e prática.
+0644 | Educação | A colaboração desenvolve habilidades de comunicação.
+0645 | Educação | Ponto de estudo: A colaboração desenvolve habilidades de comunicação.
+0646 | Educação | Para discussão em sala: A colaboração desenvolve habilidades de comunicação.
+0647 | Educação | Anotação temática: A colaboração desenvolve habilidades de comunicação.
+0648 | Educação | Ideia para aprofundamento: A colaboração desenvolve habilidades de comunicação.
+0649 | Educação | A curiosidade estimula a busca contínua por conhecimento.
+0650 | Educação | Ponto de estudo: A curiosidade estimula a busca contínua por conhecimento.
+0651 | Educação | Para discussão em sala: A curiosidade estimula a busca contínua por conhecimento.
+0652 | Educação | Anotação temática: A curiosidade estimula a busca contínua por conhecimento.
+0653 | Educação | Ideia para aprofundamento: A curiosidade estimula a busca contínua por conhecimento.
+0654 | Economia | A economia estuda escolhas diante de recursos limitados.
+0655 | Economia | Ponto de estudo: A economia estuda escolhas diante de recursos limitados.
+0656 | Economia | Para discussão em sala: A economia estuda escolhas diante de recursos limitados.
+0657 | Economia | Anotação temática: A economia estuda escolhas diante de recursos limitados.
+0658 | Economia | Ideia para aprofundamento: A economia estuda escolhas diante de recursos limitados.
+0659 | Economia | A oferta e a demanda influenciam a formação de preços.
+0660 | Economia | Ponto de estudo: A oferta e a demanda influenciam a formação de preços.
+0661 | Economia | Para discussão em sala: A oferta e a demanda influenciam a formação de preços.
+0662 | Economia | Anotação temática: A oferta e a demanda influenciam a formação de preços.
+0663 | Economia | Ideia para aprofundamento: A oferta e a demanda influenciam a formação de preços.
+0664 | Economia | A inflação representa aumento generalizado de preços ao longo do tempo.
+0665 | Economia | Ponto de estudo: A inflação representa aumento generalizado de preços ao longo do tempo.
+0666 | Economia | Para discussão em sala: A inflação representa aumento generalizado de preços ao longo do tempo.
+0667 | Economia | Anotação temática: A inflação representa aumento generalizado de preços ao longo do tempo.
+0668 | Economia | Ideia para aprofundamento: A inflação representa aumento generalizado de preços ao longo do tempo.
+0669 | Economia | Produtividade relaciona resultados e recursos empregados.
+0670 | Economia | Ponto de estudo: Produtividade relaciona resultados e recursos empregados.
+0671 | Economia | Para discussão em sala: Produtividade relaciona resultados e recursos empregados.
+0672 | Economia | Anotação temática: Produtividade relaciona resultados e recursos empregados.
+0673 | Economia | Ideia para aprofundamento: Produtividade relaciona resultados e recursos empregados.
+0674 | Economia | Orçamentos ajudam a organizar receitas e despesas.
+0675 | Economia | Ponto de estudo: Orçamentos ajudam a organizar receitas e despesas.
+0676 | Economia | Para discussão em sala: Orçamentos ajudam a organizar receitas e despesas.
+0677 | Economia | Anotação temática: Orçamentos ajudam a organizar receitas e despesas.
+0678 | Economia | Ideia para aprofundamento: Orçamentos ajudam a organizar receitas e despesas.
+0679 | Economia | Comércio conecta produtores e consumidores de regiões distintas.
+0680 | Economia | Ponto de estudo: Comércio conecta produtores e consumidores de regiões distintas.
+0681 | Economia | Para discussão em sala: Comércio conecta produtores e consumidores de regiões distintas.
+0682 | Economia | Anotação temática: Comércio conecta produtores e consumidores de regiões distintas.
+0683 | Economia | Ideia para aprofundamento: Comércio conecta produtores e consumidores de regiões distintas.
+0684 | Economia | Investimentos podem apoiar a criação de infraestrutura.
+0685 | Economia | Ponto de estudo: Investimentos podem apoiar a criação de infraestrutura.
+0686 | Economia | Para discussão em sala: Investimentos podem apoiar a criação de infraestrutura.
+0687 | Economia | Anotação temática: Investimentos podem apoiar a criação de infraestrutura.
+0688 | Economia | Ideia para aprofundamento: Investimentos podem apoiar a criação de infraestrutura.
+0689 | Economia | Indicadores econômicos resumem aspectos da atividade produtiva.
+0690 | Economia | Ponto de estudo: Indicadores econômicos resumem aspectos da atividade produtiva.
+0691 | Economia | Para discussão em sala: Indicadores econômicos resumem aspectos da atividade produtiva.
+0692 | Economia | Anotação temática: Indicadores econômicos resumem aspectos da atividade produtiva.
+0693 | Economia | Ideia para aprofundamento: Indicadores econômicos resumem aspectos da atividade produtiva.
+0694 | Economia | O custo de oportunidade envolve alternativas deixadas de lado.
+0695 | Economia | Ponto de estudo: O custo de oportunidade envolve alternativas deixadas de lado.
+0696 | Economia | Para discussão em sala: O custo de oportunidade envolve alternativas deixadas de lado.
+0697 | Economia | Anotação temática: O custo de oportunidade envolve alternativas deixadas de lado.
+0698 | Economia | Ideia para aprofundamento: O custo de oportunidade envolve alternativas deixadas de lado.
+0699 | Economia | A educação financeira apoia decisões mais informadas.
+0700 | Economia | Ponto de estudo: A educação financeira apoia decisões mais informadas.
+0701 | Economia | Para discussão em sala: A educação financeira apoia decisões mais informadas.
+0702 | Economia | Anotação temática: A educação financeira apoia decisões mais informadas.
+0703 | Economia | Ideia para aprofundamento: A educação financeira apoia decisões mais informadas.
+0704 | Finanças pessoais | Registrar gastos permite visualizar hábitos de consumo.
+0705 | Finanças pessoais | Ponto de estudo: Registrar gastos permite visualizar hábitos de consumo.
+0706 | Finanças pessoais | Para discussão em sala: Registrar gastos permite visualizar hábitos de consumo.
+0707 | Finanças pessoais | Anotação temática: Registrar gastos permite visualizar hábitos de consumo.
+0708 | Finanças pessoais | Ideia para aprofundamento: Registrar gastos permite visualizar hábitos de consumo.
+0709 | Finanças pessoais | Uma reserva financeira pode ajudar diante de imprevistos.
+0710 | Finanças pessoais | Ponto de estudo: Uma reserva financeira pode ajudar diante de imprevistos.
+0711 | Finanças pessoais | Para discussão em sala: Uma reserva financeira pode ajudar diante de imprevistos.
+0712 | Finanças pessoais | Anotação temática: Uma reserva financeira pode ajudar diante de imprevistos.
+0713 | Finanças pessoais | Ideia para aprofundamento: Uma reserva financeira pode ajudar diante de imprevistos.
+0714 | Finanças pessoais | Juros compostos incidem sobre valores acumulados ao longo do tempo.
+0715 | Finanças pessoais | Ponto de estudo: Juros compostos incidem sobre valores acumulados ao longo do tempo.
+0716 | Finanças pessoais | Para discussão em sala: Juros compostos incidem sobre valores acumulados ao longo do tempo.
+0717 | Finanças pessoais | Anotação temática: Juros compostos incidem sobre valores acumulados ao longo do tempo.
+0718 | Finanças pessoais | Ideia para aprofundamento: Juros compostos incidem sobre valores acumulados ao longo do tempo.
+0719 | Finanças pessoais | Comparar preços pode melhorar decisões de compra.
+0720 | Finanças pessoais | Ponto de estudo: Comparar preços pode melhorar decisões de compra.
+0721 | Finanças pessoais | Para discussão em sala: Comparar preços pode melhorar decisões de compra.
+0722 | Finanças pessoais | Anotação temática: Comparar preços pode melhorar decisões de compra.
+0723 | Finanças pessoais | Ideia para aprofundamento: Comparar preços pode melhorar decisões de compra.
+0724 | Finanças pessoais | Metas financeiras ficam mais claras quando são mensuráveis.
+0725 | Finanças pessoais | Ponto de estudo: Metas financeiras ficam mais claras quando são mensuráveis.
+0726 | Finanças pessoais | Para discussão em sala: Metas financeiras ficam mais claras quando são mensuráveis.
+0727 | Finanças pessoais | Anotação temática: Metas financeiras ficam mais claras quando são mensuráveis.
+0728 | Finanças pessoais | Ideia para aprofundamento: Metas financeiras ficam mais claras quando são mensuráveis.
+0729 | Finanças pessoais | Despesas recorrentes merecem atenção no planejamento.
+0730 | Finanças pessoais | Ponto de estudo: Despesas recorrentes merecem atenção no planejamento.
+0731 | Finanças pessoais | Para discussão em sala: Despesas recorrentes merecem atenção no planejamento.
+0732 | Finanças pessoais | Anotação temática: Despesas recorrentes merecem atenção no planejamento.
+0733 | Finanças pessoais | Ideia para aprofundamento: Despesas recorrentes merecem atenção no planejamento.
+0734 | Finanças pessoais | Crédito exige avaliação de taxas e condições contratuais.
+0735 | Finanças pessoais | Ponto de estudo: Crédito exige avaliação de taxas e condições contratuais.
+0736 | Finanças pessoais | Para discussão em sala: Crédito exige avaliação de taxas e condições contratuais.
+0737 | Finanças pessoais | Anotação temática: Crédito exige avaliação de taxas e condições contratuais.
+0738 | Finanças pessoais | Ideia para aprofundamento: Crédito exige avaliação de taxas e condições contratuais.
+0739 | Finanças pessoais | Planejar compras maiores pode reduzir decisões impulsivas.
+0740 | Finanças pessoais | Ponto de estudo: Planejar compras maiores pode reduzir decisões impulsivas.
+0741 | Finanças pessoais | Para discussão em sala: Planejar compras maiores pode reduzir decisões impulsivas.
+0742 | Finanças pessoais | Anotação temática: Planejar compras maiores pode reduzir decisões impulsivas.
+0743 | Finanças pessoais | Ideia para aprofundamento: Planejar compras maiores pode reduzir decisões impulsivas.
+0744 | Finanças pessoais | Diversificação é um conceito relevante na gestão de investimentos.
+0745 | Finanças pessoais | Ponto de estudo: Diversificação é um conceito relevante na gestão de investimentos.
+0746 | Finanças pessoais | Para discussão em sala: Diversificação é um conceito relevante na gestão de investimentos.
+0747 | Finanças pessoais | Anotação temática: Diversificação é um conceito relevante na gestão de investimentos.
+0748 | Finanças pessoais | Ideia para aprofundamento: Diversificação é um conceito relevante na gestão de investimentos.
+0749 | Finanças pessoais | Revisar o orçamento permite ajustes quando a renda muda.
+0750 | Finanças pessoais | Ponto de estudo: Revisar o orçamento permite ajustes quando a renda muda.
+0751 | Finanças pessoais | Para discussão em sala: Revisar o orçamento permite ajustes quando a renda muda.
+0752 | Finanças pessoais | Anotação temática: Revisar o orçamento permite ajustes quando a renda muda.
+0753 | Finanças pessoais | Ideia para aprofundamento: Revisar o orçamento permite ajustes quando a renda muda.
+0754 | Astronomia | A Terra realiza movimentos de rotação e translação.
+0755 | Astronomia | Ponto de estudo: A Terra realiza movimentos de rotação e translação.
+0756 | Astronomia | Para discussão em sala: A Terra realiza movimentos de rotação e translação.
+0757 | Astronomia | Anotação temática: A Terra realiza movimentos de rotação e translação.
+0758 | Astronomia | Ideia para aprofundamento: A Terra realiza movimentos de rotação e translação.
+0759 | Astronomia | A Lua é o satélite natural da Terra.
+0760 | Astronomia | Ponto de estudo: A Lua é o satélite natural da Terra.
+0761 | Astronomia | Para discussão em sala: A Lua é o satélite natural da Terra.
+0762 | Astronomia | Anotação temática: A Lua é o satélite natural da Terra.
+0763 | Astronomia | Ideia para aprofundamento: A Lua é o satélite natural da Terra.
+0764 | Astronomia | Estrelas produzem energia por processos físicos em seu interior.
+0765 | Astronomia | Ponto de estudo: Estrelas produzem energia por processos físicos em seu interior.
+0766 | Astronomia | Para discussão em sala: Estrelas produzem energia por processos físicos em seu interior.
+0767 | Astronomia | Anotação temática: Estrelas produzem energia por processos físicos em seu interior.
+0768 | Astronomia | Ideia para aprofundamento: Estrelas produzem energia por processos físicos em seu interior.
+0769 | Astronomia | Planetas orbitam estrelas sob influência da gravidade.
+0770 | Astronomia | Ponto de estudo: Planetas orbitam estrelas sob influência da gravidade.
+0771 | Astronomia | Para discussão em sala: Planetas orbitam estrelas sob influência da gravidade.
+0772 | Astronomia | Anotação temática: Planetas orbitam estrelas sob influência da gravidade.
+0773 | Astronomia | Ideia para aprofundamento: Planetas orbitam estrelas sob influência da gravidade.
+0774 | Astronomia | Galáxias reúnem estrelas, gás, poeira e outros componentes.
+0775 | Astronomia | Ponto de estudo: Galáxias reúnem estrelas, gás, poeira e outros componentes.
+0776 | Astronomia | Para discussão em sala: Galáxias reúnem estrelas, gás, poeira e outros componentes.
+0777 | Astronomia | Anotação temática: Galáxias reúnem estrelas, gás, poeira e outros componentes.
+0778 | Astronomia | Ideia para aprofundamento: Galáxias reúnem estrelas, gás, poeira e outros componentes.
+0779 | Astronomia | Telescópios coletam radiação de objetos distantes.
+0780 | Astronomia | Ponto de estudo: Telescópios coletam radiação de objetos distantes.
+0781 | Astronomia | Para discussão em sala: Telescópios coletam radiação de objetos distantes.
+0782 | Astronomia | Anotação temática: Telescópios coletam radiação de objetos distantes.
+0783 | Astronomia | Ideia para aprofundamento: Telescópios coletam radiação de objetos distantes.
+0784 | Astronomia | Constelações são padrões aparentes observados no céu.
+0785 | Astronomia | Ponto de estudo: Constelações são padrões aparentes observados no céu.
+0786 | Astronomia | Para discussão em sala: Constelações são padrões aparentes observados no céu.
+0787 | Astronomia | Anotação temática: Constelações são padrões aparentes observados no céu.
+0788 | Astronomia | Ideia para aprofundamento: Constelações são padrões aparentes observados no céu.
+0789 | Astronomia | Cometas podem apresentar caudas ao se aproximarem do Sol.
+0790 | Astronomia | Ponto de estudo: Cometas podem apresentar caudas ao se aproximarem do Sol.
+0791 | Astronomia | Para discussão em sala: Cometas podem apresentar caudas ao se aproximarem do Sol.
+0792 | Astronomia | Anotação temática: Cometas podem apresentar caudas ao se aproximarem do Sol.
+0793 | Astronomia | Ideia para aprofundamento: Cometas podem apresentar caudas ao se aproximarem do Sol.
+0794 | Astronomia | Eclipses ocorrem quando corpos celestes se alinham de certas formas.
+0795 | Astronomia | Ponto de estudo: Eclipses ocorrem quando corpos celestes se alinham de certas formas.
+0796 | Astronomia | Para discussão em sala: Eclipses ocorrem quando corpos celestes se alinham de certas formas.
+0797 | Astronomia | Anotação temática: Eclipses ocorrem quando corpos celestes se alinham de certas formas.
+0798 | Astronomia | Ideia para aprofundamento: Eclipses ocorrem quando corpos celestes se alinham de certas formas.
+0799 | Astronomia | A luz de astros distantes leva tempo para alcançar observadores.
+0800 | Astronomia | Ponto de estudo: A luz de astros distantes leva tempo para alcançar observadores.
+0801 | Astronomia | Para discussão em sala: A luz de astros distantes leva tempo para alcançar observadores.
+0802 | Astronomia | Anotação temática: A luz de astros distantes leva tempo para alcançar observadores.
+0803 | Astronomia | Ideia para aprofundamento: A luz de astros distantes leva tempo para alcançar observadores.
+0804 | Biologia | Células são unidades estruturais e funcionais dos seres vivos.
+0805 | Biologia | Ponto de estudo: Células são unidades estruturais e funcionais dos seres vivos.
+0806 | Biologia | Para discussão em sala: Células são unidades estruturais e funcionais dos seres vivos.
+0807 | Biologia | Anotação temática: Células são unidades estruturais e funcionais dos seres vivos.
+0808 | Biologia | Ideia para aprofundamento: Células são unidades estruturais e funcionais dos seres vivos.
+0809 | Biologia | O DNA armazena informações genéticas em muitos organismos.
+0810 | Biologia | Ponto de estudo: O DNA armazena informações genéticas em muitos organismos.
+0811 | Biologia | Para discussão em sala: O DNA armazena informações genéticas em muitos organismos.
+0812 | Biologia | Anotação temática: O DNA armazena informações genéticas em muitos organismos.
+0813 | Biologia | Ideia para aprofundamento: O DNA armazena informações genéticas em muitos organismos.
+0814 | Biologia | A fotossíntese transforma energia luminosa em energia química.
+0815 | Biologia | Ponto de estudo: A fotossíntese transforma energia luminosa em energia química.
+0816 | Biologia | Para discussão em sala: A fotossíntese transforma energia luminosa em energia química.
+0817 | Biologia | Anotação temática: A fotossíntese transforma energia luminosa em energia química.
+0818 | Biologia | Ideia para aprofundamento: A fotossíntese transforma energia luminosa em energia química.
+0819 | Biologia | Ecossistemas incluem organismos e fatores não vivos.
+0820 | Biologia | Ponto de estudo: Ecossistemas incluem organismos e fatores não vivos.
+0821 | Biologia | Para discussão em sala: Ecossistemas incluem organismos e fatores não vivos.
+0822 | Biologia | Anotação temática: Ecossistemas incluem organismos e fatores não vivos.
+0823 | Biologia | Ideia para aprofundamento: Ecossistemas incluem organismos e fatores não vivos.
+0824 | Biologia | A evolução descreve mudanças nas populações ao longo das gerações.
+0825 | Biologia | Ponto de estudo: A evolução descreve mudanças nas populações ao longo das gerações.
+0826 | Biologia | Para discussão em sala: A evolução descreve mudanças nas populações ao longo das gerações.
+0827 | Biologia | Anotação temática: A evolução descreve mudanças nas populações ao longo das gerações.
+0828 | Biologia | Ideia para aprofundamento: A evolução descreve mudanças nas populações ao longo das gerações.
+0829 | Biologia | Microrganismos exercem funções variadas nos ambientes.
+0830 | Biologia | Ponto de estudo: Microrganismos exercem funções variadas nos ambientes.
+0831 | Biologia | Para discussão em sala: Microrganismos exercem funções variadas nos ambientes.
+0832 | Biologia | Anotação temática: Microrganismos exercem funções variadas nos ambientes.
+0833 | Biologia | Ideia para aprofundamento: Microrganismos exercem funções variadas nos ambientes.
+0834 | Biologia | Polinização contribui para a reprodução de muitas plantas.
+0835 | Biologia | Ponto de estudo: Polinização contribui para a reprodução de muitas plantas.
+0836 | Biologia | Para discussão em sala: Polinização contribui para a reprodução de muitas plantas.
+0837 | Biologia | Anotação temática: Polinização contribui para a reprodução de muitas plantas.
+0838 | Biologia | Ideia para aprofundamento: Polinização contribui para a reprodução de muitas plantas.
+0839 | Biologia | Enzimas aceleram reações químicas em sistemas biológicos.
+0840 | Biologia | Ponto de estudo: Enzimas aceleram reações químicas em sistemas biológicos.
+0841 | Biologia | Para discussão em sala: Enzimas aceleram reações químicas em sistemas biológicos.
+0842 | Biologia | Anotação temática: Enzimas aceleram reações químicas em sistemas biológicos.
+0843 | Biologia | Ideia para aprofundamento: Enzimas aceleram reações químicas em sistemas biológicos.
+0844 | Biologia | Cadeias alimentares representam relações de transferência de energia.
+0845 | Biologia | Ponto de estudo: Cadeias alimentares representam relações de transferência de energia.
+0846 | Biologia | Para discussão em sala: Cadeias alimentares representam relações de transferência de energia.
+0847 | Biologia | Anotação temática: Cadeias alimentares representam relações de transferência de energia.
+0848 | Biologia | Ideia para aprofundamento: Cadeias alimentares representam relações de transferência de energia.
+0849 | Biologia | A biodiversidade inclui diversidade genética, de espécies e de ecossistemas.
+0850 | Biologia | Ponto de estudo: A biodiversidade inclui diversidade genética, de espécies e de ecossistemas.
+0851 | Biologia | Para discussão em sala: A biodiversidade inclui diversidade genética, de espécies e de ecossistemas.
+0852 | Biologia | Anotação temática: A biodiversidade inclui diversidade genética, de espécies e de ecossistemas.
+0853 | Biologia | Ideia para aprofundamento: A biodiversidade inclui diversidade genética, de espécies e de ecossistemas.
+0854 | Física | A velocidade descreve a variação da posição ao longo do tempo.
+0855 | Física | Ponto de estudo: A velocidade descreve a variação da posição ao longo do tempo.
+0856 | Física | Para discussão em sala: A velocidade descreve a variação da posição ao longo do tempo.
+0857 | Física | Anotação temática: A velocidade descreve a variação da posição ao longo do tempo.
+0858 | Física | Ideia para aprofundamento: A velocidade descreve a variação da posição ao longo do tempo.
+0859 | Física | Forças podem modificar o movimento dos corpos.
+0860 | Física | Ponto de estudo: Forças podem modificar o movimento dos corpos.
+0861 | Física | Para discussão em sala: Forças podem modificar o movimento dos corpos.
+0862 | Física | Anotação temática: Forças podem modificar o movimento dos corpos.
+0863 | Física | Ideia para aprofundamento: Forças podem modificar o movimento dos corpos.
+0864 | Física | A energia pode assumir diferentes formas e ser transferida.
+0865 | Física | Ponto de estudo: A energia pode assumir diferentes formas e ser transferida.
+0866 | Física | Para discussão em sala: A energia pode assumir diferentes formas e ser transferida.
+0867 | Física | Anotação temática: A energia pode assumir diferentes formas e ser transferida.
+0868 | Física | Ideia para aprofundamento: A energia pode assumir diferentes formas e ser transferida.
+0869 | Física | O calor flui espontaneamente de regiões mais quentes para mais frias.
+0870 | Física | Ponto de estudo: O calor flui espontaneamente de regiões mais quentes para mais frias.
+0871 | Física | Para discussão em sala: O calor flui espontaneamente de regiões mais quentes para mais frias.
+0872 | Física | Anotação temática: O calor flui espontaneamente de regiões mais quentes para mais frias.
+0873 | Física | Ideia para aprofundamento: O calor flui espontaneamente de regiões mais quentes para mais frias.
+0874 | Física | A luz apresenta comportamentos ondulatórios e corpusculares.
+0875 | Física | Ponto de estudo: A luz apresenta comportamentos ondulatórios e corpusculares.
+0876 | Física | Para discussão em sala: A luz apresenta comportamentos ondulatórios e corpusculares.
+0877 | Física | Anotação temática: A luz apresenta comportamentos ondulatórios e corpusculares.
+0878 | Física | Ideia para aprofundamento: A luz apresenta comportamentos ondulatórios e corpusculares.
+0879 | Física | O som é uma onda mecânica que precisa de um meio para se propagar.
+0880 | Física | Ponto de estudo: O som é uma onda mecânica que precisa de um meio para se propagar.
+0881 | Física | Para discussão em sala: O som é uma onda mecânica que precisa de um meio para se propagar.
+0882 | Física | Anotação temática: O som é uma onda mecânica que precisa de um meio para se propagar.
+0883 | Física | Ideia para aprofundamento: O som é uma onda mecânica que precisa de um meio para se propagar.
+0884 | Física | A eletricidade envolve fenômenos associados a cargas elétricas.
+0885 | Física | Ponto de estudo: A eletricidade envolve fenômenos associados a cargas elétricas.
+0886 | Física | Para discussão em sala: A eletricidade envolve fenômenos associados a cargas elétricas.
+0887 | Física | Anotação temática: A eletricidade envolve fenômenos associados a cargas elétricas.
+0888 | Física | Ideia para aprofundamento: A eletricidade envolve fenômenos associados a cargas elétricas.
+0889 | Física | Ímãs produzem campos magnéticos.
+0890 | Física | Ponto de estudo: Ímãs produzem campos magnéticos.
+0891 | Física | Para discussão em sala: Ímãs produzem campos magnéticos.
+0892 | Física | Anotação temática: Ímãs produzem campos magnéticos.
+0893 | Física | Ideia para aprofundamento: Ímãs produzem campos magnéticos.
+0894 | Física | A pressão relaciona força aplicada e área.
+0895 | Física | Ponto de estudo: A pressão relaciona força aplicada e área.
+0896 | Física | Para discussão em sala: A pressão relaciona força aplicada e área.
+0897 | Física | Anotação temática: A pressão relaciona força aplicada e área.
+0898 | Física | Ideia para aprofundamento: A pressão relaciona força aplicada e área.
+0899 | Física | A gravidade atua entre corpos que possuem massa.
+0900 | Física | Ponto de estudo: A gravidade atua entre corpos que possuem massa.
+0901 | Física | Para discussão em sala: A gravidade atua entre corpos que possuem massa.
+0902 | Física | Anotação temática: A gravidade atua entre corpos que possuem massa.
+0903 | Física | Ideia para aprofundamento: A gravidade atua entre corpos que possuem massa.
+0904 | Química | Átomos compõem os elementos químicos.
+0905 | Química | Ponto de estudo: Átomos compõem os elementos químicos.
+0906 | Química | Para discussão em sala: Átomos compõem os elementos químicos.
+0907 | Química | Anotação temática: Átomos compõem os elementos químicos.
+0908 | Química | Ideia para aprofundamento: Átomos compõem os elementos químicos.
+0909 | Química | Moléculas são conjuntos de átomos ligados entre si.
+0910 | Química | Ponto de estudo: Moléculas são conjuntos de átomos ligados entre si.
+0911 | Química | Para discussão em sala: Moléculas são conjuntos de átomos ligados entre si.
+0912 | Química | Anotação temática: Moléculas são conjuntos de átomos ligados entre si.
+0913 | Química | Ideia para aprofundamento: Moléculas são conjuntos de átomos ligados entre si.
+0914 | Química | Reações químicas reorganizam átomos em novas substâncias.
+0915 | Química | Ponto de estudo: Reações químicas reorganizam átomos em novas substâncias.
+0916 | Química | Para discussão em sala: Reações químicas reorganizam átomos em novas substâncias.
+0917 | Química | Anotação temática: Reações químicas reorganizam átomos em novas substâncias.
+0918 | Química | Ideia para aprofundamento: Reações químicas reorganizam átomos em novas substâncias.
+0919 | Química | O pH expressa uma medida relacionada à acidez de soluções.
+0920 | Química | Ponto de estudo: O pH expressa uma medida relacionada à acidez de soluções.
+0921 | Química | Para discussão em sala: O pH expressa uma medida relacionada à acidez de soluções.
+0922 | Química | Anotação temática: O pH expressa uma medida relacionada à acidez de soluções.
+0923 | Química | Ideia para aprofundamento: O pH expressa uma medida relacionada à acidez de soluções.
+0924 | Química | Catalisadores alteram a velocidade de certas reações.
+0925 | Química | Ponto de estudo: Catalisadores alteram a velocidade de certas reações.
+0926 | Química | Para discussão em sala: Catalisadores alteram a velocidade de certas reações.
+0927 | Química | Anotação temática: Catalisadores alteram a velocidade de certas reações.
+0928 | Química | Ideia para aprofundamento: Catalisadores alteram a velocidade de certas reações.
+0929 | Química | A tabela periódica organiza elementos por número atômico.
+0930 | Química | Ponto de estudo: A tabela periódica organiza elementos por número atômico.
+0931 | Química | Para discussão em sala: A tabela periódica organiza elementos por número atômico.
+0932 | Química | Anotação temática: A tabela periódica organiza elementos por número atômico.
+0933 | Química | Ideia para aprofundamento: A tabela periódica organiza elementos por número atômico.
+0934 | Química | Misturas podem ser separadas por diferentes processos físicos.
+0935 | Química | Ponto de estudo: Misturas podem ser separadas por diferentes processos físicos.
+0936 | Química | Para discussão em sala: Misturas podem ser separadas por diferentes processos físicos.
+0937 | Química | Anotação temática: Misturas podem ser separadas por diferentes processos físicos.
+0938 | Química | Ideia para aprofundamento: Misturas podem ser separadas por diferentes processos físicos.
+0939 | Química | Ligações químicas explicam a união entre átomos.
+0940 | Química | Ponto de estudo: Ligações químicas explicam a união entre átomos.
+0941 | Química | Para discussão em sala: Ligações químicas explicam a união entre átomos.
+0942 | Química | Anotação temática: Ligações químicas explicam a união entre átomos.
+0943 | Química | Ideia para aprofundamento: Ligações químicas explicam a união entre átomos.
+0944 | Química | A temperatura influencia a velocidade de muitas reações.
+0945 | Química | Ponto de estudo: A temperatura influencia a velocidade de muitas reações.
+0946 | Química | Para discussão em sala: A temperatura influencia a velocidade de muitas reações.
+0947 | Química | Anotação temática: A temperatura influencia a velocidade de muitas reações.
+0948 | Química | Ideia para aprofundamento: A temperatura influencia a velocidade de muitas reações.
+0949 | Química | A química está presente em processos industriais e cotidianos.
+0950 | Química | Ponto de estudo: A química está presente em processos industriais e cotidianos.
+0951 | Química | Para discussão em sala: A química está presente em processos industriais e cotidianos.
+0952 | Química | Anotação temática: A química está presente em processos industriais e cotidianos.
+0953 | Química | Ideia para aprofundamento: A química está presente em processos industriais e cotidianos.
+0954 | Programação | Variáveis armazenam valores usados por programas.
+0955 | Programação | Ponto de estudo: Variáveis armazenam valores usados por programas.
+0956 | Programação | Para discussão em sala: Variáveis armazenam valores usados por programas.
+0957 | Programação | Anotação temática: Variáveis armazenam valores usados por programas.
+0958 | Programação | Ideia para aprofundamento: Variáveis armazenam valores usados por programas.
+0959 | Programação | Funções agrupam instruções reutilizáveis.
+0960 | Programação | Ponto de estudo: Funções agrupam instruções reutilizáveis.
+0961 | Programação | Para discussão em sala: Funções agrupam instruções reutilizáveis.
+0962 | Programação | Anotação temática: Funções agrupam instruções reutilizáveis.
+0963 | Programação | Ideia para aprofundamento: Funções agrupam instruções reutilizáveis.
+0964 | Programação | Estruturas condicionais permitem decisões baseadas em critérios.
+0965 | Programação | Ponto de estudo: Estruturas condicionais permitem decisões baseadas em critérios.
+0966 | Programação | Para discussão em sala: Estruturas condicionais permitem decisões baseadas em critérios.
+0967 | Programação | Anotação temática: Estruturas condicionais permitem decisões baseadas em critérios.
+0968 | Programação | Ideia para aprofundamento: Estruturas condicionais permitem decisões baseadas em critérios.
+0969 | Programação | Laços repetem operações enquanto certas condições são atendidas.
+0970 | Programação | Ponto de estudo: Laços repetem operações enquanto certas condições são atendidas.
+0971 | Programação | Para discussão em sala: Laços repetem operações enquanto certas condições são atendidas.
+0972 | Programação | Anotação temática: Laços repetem operações enquanto certas condições são atendidas.
+0973 | Programação | Ideia para aprofundamento: Laços repetem operações enquanto certas condições são atendidas.
+0974 | Programação | Testes automatizados ajudam a detectar regressões.
+0975 | Programação | Ponto de estudo: Testes automatizados ajudam a detectar regressões.
+0976 | Programação | Para discussão em sala: Testes automatizados ajudam a detectar regressões.
+0977 | Programação | Anotação temática: Testes automatizados ajudam a detectar regressões.
+0978 | Programação | Ideia para aprofundamento: Testes automatizados ajudam a detectar regressões.
+0979 | Programação | Controle de versão registra alterações em arquivos de projetos.
+0980 | Programação | Ponto de estudo: Controle de versão registra alterações em arquivos de projetos.
+0981 | Programação | Para discussão em sala: Controle de versão registra alterações em arquivos de projetos.
+0982 | Programação | Anotação temática: Controle de versão registra alterações em arquivos de projetos.
+0983 | Programação | Ideia para aprofundamento: Controle de versão registra alterações em arquivos de projetos.
+0984 | Programação | APIs permitem comunicação entre componentes de software.
+0985 | Programação | Ponto de estudo: APIs permitem comunicação entre componentes de software.
+0986 | Programação | Para discussão em sala: APIs permitem comunicação entre componentes de software.
+0987 | Programação | Anotação temática: APIs permitem comunicação entre componentes de software.
+0988 | Programação | Ideia para aprofundamento: APIs permitem comunicação entre componentes de software.
+0989 | Programação | Algoritmos descrevem passos para resolver problemas.
+0990 | Programação | Ponto de estudo: Algoritmos descrevem passos para resolver problemas.
+0991 | Programação | Para discussão em sala: Algoritmos descrevem passos para resolver problemas.
+0992 | Programação | Anotação temática: Algoritmos descrevem passos para resolver problemas.
+0993 | Programação | Ideia para aprofundamento: Algoritmos descrevem passos para resolver problemas.
+0994 | Programação | Documentação facilita a manutenção de sistemas.
+0995 | Programação | Ponto de estudo: Documentação facilita a manutenção de sistemas.
+0996 | Programação | Para discussão em sala: Documentação facilita a manutenção de sistemas.
+0997 | Programação | Anotação temática: Documentação facilita a manutenção de sistemas.
+0998 | Programação | Ideia para aprofundamento: Documentação facilita a manutenção de sistemas.
+0999 | Programação | Revisões de código podem identificar problemas e compartilhar conhecimento.
+1000 | Programação | Ponto de estudo: Revisões de código podem identificar problemas e compartilhar conhecimento.
+1001 | Programação | Para discussão em sala: Revisões de código podem identificar problemas e compartilhar conhecimento.
+1002 | Programação | Anotação temática: Revisões de código podem identificar problemas e compartilhar conhecimento.
+1003 | Programação | Ideia para aprofundamento: Revisões de código podem identificar problemas e compartilhar conhecimento.
+1004 | Segurança digital | Senhas únicas reduzem o impacto de vazamentos de credenciais.
+1005 | Segurança digital | Ponto de estudo: Senhas únicas reduzem o impacto de vazamentos de credenciais.
+1006 | Segurança digital | Para discussão em sala: Senhas únicas reduzem o impacto de vazamentos de credenciais.
+1007 | Segurança digital | Anotação temática: Senhas únicas reduzem o impacto de vazamentos de credenciais.
+1008 | Segurança digital | Ideia para aprofundamento: Senhas únicas reduzem o impacto de vazamentos de credenciais.
+1009 | Segurança digital | Autenticação multifator adiciona uma camada de proteção.
+1010 | Segurança digital | Ponto de estudo: Autenticação multifator adiciona uma camada de proteção.
+1011 | Segurança digital | Para discussão em sala: Autenticação multifator adiciona uma camada de proteção.
+1012 | Segurança digital | Anotação temática: Autenticação multifator adiciona uma camada de proteção.
+1013 | Segurança digital | Ideia para aprofundamento: Autenticação multifator adiciona uma camada de proteção.
+1014 | Segurança digital | Mensagens de phishing tentam induzir o usuário ao erro.
+1015 | Segurança digital | Ponto de estudo: Mensagens de phishing tentam induzir o usuário ao erro.
+1016 | Segurança digital | Para discussão em sala: Mensagens de phishing tentam induzir o usuário ao erro.
+1017 | Segurança digital | Anotação temática: Mensagens de phishing tentam induzir o usuário ao erro.
+1018 | Segurança digital | Ideia para aprofundamento: Mensagens de phishing tentam induzir o usuário ao erro.
+1019 | Segurança digital | Cópias de segurança ajudam a recuperar dados perdidos.
+1020 | Segurança digital | Ponto de estudo: Cópias de segurança ajudam a recuperar dados perdidos.
+1021 | Segurança digital | Para discussão em sala: Cópias de segurança ajudam a recuperar dados perdidos.
+1022 | Segurança digital | Anotação temática: Cópias de segurança ajudam a recuperar dados perdidos.
+1023 | Segurança digital | Ideia para aprofundamento: Cópias de segurança ajudam a recuperar dados perdidos.
+1024 | Segurança digital | Atualizações de segurança corrigem vulnerabilidades conhecidas.
+1025 | Segurança digital | Ponto de estudo: Atualizações de segurança corrigem vulnerabilidades conhecidas.
+1026 | Segurança digital | Para discussão em sala: Atualizações de segurança corrigem vulnerabilidades conhecidas.
+1027 | Segurança digital | Anotação temática: Atualizações de segurança corrigem vulnerabilidades conhecidas.
+1028 | Segurança digital | Ideia para aprofundamento: Atualizações de segurança corrigem vulnerabilidades conhecidas.
+1029 | Segurança digital | Privilégios mínimos limitam acessos desnecessários.
+1030 | Segurança digital | Ponto de estudo: Privilégios mínimos limitam acessos desnecessários.
+1031 | Segurança digital | Para discussão em sala: Privilégios mínimos limitam acessos desnecessários.
+1032 | Segurança digital | Anotação temática: Privilégios mínimos limitam acessos desnecessários.
+1033 | Segurança digital | Ideia para aprofundamento: Privilégios mínimos limitam acessos desnecessários.
+1034 | Segurança digital | Conexões criptografadas protegem dados em trânsito.
+1035 | Segurança digital | Ponto de estudo: Conexões criptografadas protegem dados em trânsito.
+1036 | Segurança digital | Para discussão em sala: Conexões criptografadas protegem dados em trânsito.
+1037 | Segurança digital | Anotação temática: Conexões criptografadas protegem dados em trânsito.
+1038 | Segurança digital | Ideia para aprofundamento: Conexões criptografadas protegem dados em trânsito.
+1039 | Segurança digital | A engenharia social explora comportamentos humanos.
+1040 | Segurança digital | Ponto de estudo: A engenharia social explora comportamentos humanos.
+1041 | Segurança digital | Para discussão em sala: A engenharia social explora comportamentos humanos.
+1042 | Segurança digital | Anotação temática: A engenharia social explora comportamentos humanos.
+1043 | Segurança digital | Ideia para aprofundamento: A engenharia social explora comportamentos humanos.
+1044 | Segurança digital | Monitoramento pode detectar atividades suspeitas.
+1045 | Segurança digital | Ponto de estudo: Monitoramento pode detectar atividades suspeitas.
+1046 | Segurança digital | Para discussão em sala: Monitoramento pode detectar atividades suspeitas.
+1047 | Segurança digital | Anotação temática: Monitoramento pode detectar atividades suspeitas.
+1048 | Segurança digital | Ideia para aprofundamento: Monitoramento pode detectar atividades suspeitas.
+1049 | Segurança digital | A conscientização é parte importante da segurança da informação.
+1050 | Segurança digital | Ponto de estudo: A conscientização é parte importante da segurança da informação.
+1051 | Segurança digital | Para discussão em sala: A conscientização é parte importante da segurança da informação.
+1052 | Segurança digital | Anotação temática: A conscientização é parte importante da segurança da informação.
+1053 | Segurança digital | Ideia para aprofundamento: A conscientização é parte importante da segurança da informação.
+1054 | Cultura | Festas populares preservam memórias e práticas comunitárias.
+1055 | Cultura | Ponto de estudo: Festas populares preservam memórias e práticas comunitárias.
+1056 | Cultura | Para discussão em sala: Festas populares preservam memórias e práticas comunitárias.
+1057 | Cultura | Anotação temática: Festas populares preservam memórias e práticas comunitárias.
+1058 | Cultura | Ideia para aprofundamento: Festas populares preservam memórias e práticas comunitárias.
+1059 | Cultura | Idiomas carregam histórias e formas de interpretar o mundo.
+1060 | Cultura | Ponto de estudo: Idiomas carregam histórias e formas de interpretar o mundo.
+1061 | Cultura | Para discussão em sala: Idiomas carregam histórias e formas de interpretar o mundo.
+1062 | Cultura | Anotação temática: Idiomas carregam histórias e formas de interpretar o mundo.
+1063 | Cultura | Ideia para aprofundamento: Idiomas carregam histórias e formas de interpretar o mundo.
+1064 | Cultura | Tradições culinárias refletem contextos geográficos e sociais.
+1065 | Cultura | Ponto de estudo: Tradições culinárias refletem contextos geográficos e sociais.
+1066 | Cultura | Para discussão em sala: Tradições culinárias refletem contextos geográficos e sociais.
+1067 | Cultura | Anotação temática: Tradições culinárias refletem contextos geográficos e sociais.
+1068 | Cultura | Ideia para aprofundamento: Tradições culinárias refletem contextos geográficos e sociais.
+1069 | Cultura | Patrimônios imateriais incluem saberes, celebrações e expressões.
+1070 | Cultura | Ponto de estudo: Patrimônios imateriais incluem saberes, celebrações e expressões.
+1071 | Cultura | Para discussão em sala: Patrimônios imateriais incluem saberes, celebrações e expressões.
+1072 | Cultura | Anotação temática: Patrimônios imateriais incluem saberes, celebrações e expressões.
+1073 | Cultura | Ideia para aprofundamento: Patrimônios imateriais incluem saberes, celebrações e expressões.
+1074 | Cultura | Museus comunitários podem valorizar narrativas locais.
+1075 | Cultura | Ponto de estudo: Museus comunitários podem valorizar narrativas locais.
+1076 | Cultura | Para discussão em sala: Museus comunitários podem valorizar narrativas locais.
+1077 | Cultura | Anotação temática: Museus comunitários podem valorizar narrativas locais.
+1078 | Cultura | Ideia para aprofundamento: Museus comunitários podem valorizar narrativas locais.
+1079 | Cultura | Danças tradicionais envolvem movimentos e significados culturais.
+1080 | Cultura | Ponto de estudo: Danças tradicionais envolvem movimentos e significados culturais.
+1081 | Cultura | Para discussão em sala: Danças tradicionais envolvem movimentos e significados culturais.
+1082 | Cultura | Anotação temática: Danças tradicionais envolvem movimentos e significados culturais.
+1083 | Cultura | Ideia para aprofundamento: Danças tradicionais envolvem movimentos e significados culturais.
+1084 | Cultura | Expressões artísticas se transformam pelo contato entre culturas.
+1085 | Cultura | Ponto de estudo: Expressões artísticas se transformam pelo contato entre culturas.
+1086 | Cultura | Para discussão em sala: Expressões artísticas se transformam pelo contato entre culturas.
+1087 | Cultura | Anotação temática: Expressões artísticas se transformam pelo contato entre culturas.
+1088 | Cultura | Ideia para aprofundamento: Expressões artísticas se transformam pelo contato entre culturas.
+1089 | Cultura | A diversidade cultural amplia perspectivas sobre a sociedade.
+1090 | Cultura | Ponto de estudo: A diversidade cultural amplia perspectivas sobre a sociedade.
+1091 | Cultura | Para discussão em sala: A diversidade cultural amplia perspectivas sobre a sociedade.
+1092 | Cultura | Anotação temática: A diversidade cultural amplia perspectivas sobre a sociedade.
+1093 | Cultura | Ideia para aprofundamento: A diversidade cultural amplia perspectivas sobre a sociedade.
+1094 | Cultura | Memórias familiares contribuem para identidades coletivas.
+1095 | Cultura | Ponto de estudo: Memórias familiares contribuem para identidades coletivas.
+1096 | Cultura | Para discussão em sala: Memórias familiares contribuem para identidades coletivas.
+1097 | Cultura | Anotação temática: Memórias familiares contribuem para identidades coletivas.
+1098 | Cultura | Ideia para aprofundamento: Memórias familiares contribuem para identidades coletivas.
+1099 | Cultura | O diálogo intercultural favorece o respeito entre grupos.
+1100 | Cultura | Ponto de estudo: O diálogo intercultural favorece o respeito entre grupos.
+1101 | Cultura | Para discussão em sala: O diálogo intercultural favorece o respeito entre grupos.
+1102 | Cultura | Anotação temática: O diálogo intercultural favorece o respeito entre grupos.
+1103 | Cultura | Ideia para aprofundamento: O diálogo intercultural favorece o respeito entre grupos.
+1104 | Transportes | Transporte público pode deslocar muitas pessoas com uso compartilhado de vias.
+1105 | Transportes | Ponto de estudo: Transporte público pode deslocar muitas pessoas com uso compartilhado de vias.
+1106 | Transportes | Para discussão em sala: Transporte público pode deslocar muitas pessoas com uso compartilhado de vias.
+1107 | Transportes | Anotação temática: Transporte público pode deslocar muitas pessoas com uso compartilhado de vias.
+1108 | Transportes | Ideia para aprofundamento: Transporte público pode deslocar muitas pessoas com uso compartilhado de vias.
+1109 | Transportes | Ciclovias oferecem espaços dedicados à circulação de bicicletas.
+1110 | Transportes | Ponto de estudo: Ciclovias oferecem espaços dedicados à circulação de bicicletas.
+1111 | Transportes | Para discussão em sala: Ciclovias oferecem espaços dedicados à circulação de bicicletas.
+1112 | Transportes | Anotação temática: Ciclovias oferecem espaços dedicados à circulação de bicicletas.
+1113 | Transportes | Ideia para aprofundamento: Ciclovias oferecem espaços dedicados à circulação de bicicletas.
+1114 | Transportes | Ferrovias transportam passageiros e cargas.
+1115 | Transportes | Ponto de estudo: Ferrovias transportam passageiros e cargas.
+1116 | Transportes | Para discussão em sala: Ferrovias transportam passageiros e cargas.
+1117 | Transportes | Anotação temática: Ferrovias transportam passageiros e cargas.
+1118 | Transportes | Ideia para aprofundamento: Ferrovias transportam passageiros e cargas.
+1119 | Transportes | Portos conectam rotas comerciais marítimas.
+1120 | Transportes | Ponto de estudo: Portos conectam rotas comerciais marítimas.
+1121 | Transportes | Para discussão em sala: Portos conectam rotas comerciais marítimas.
+1122 | Transportes | Anotação temática: Portos conectam rotas comerciais marítimas.
+1123 | Transportes | Ideia para aprofundamento: Portos conectam rotas comerciais marítimas.
+1124 | Transportes | A logística coordena armazenamento e movimentação de mercadorias.
+1125 | Transportes | Ponto de estudo: A logística coordena armazenamento e movimentação de mercadorias.
+1126 | Transportes | Para discussão em sala: A logística coordena armazenamento e movimentação de mercadorias.
+1127 | Transportes | Anotação temática: A logística coordena armazenamento e movimentação de mercadorias.
+1128 | Transportes | Ideia para aprofundamento: A logística coordena armazenamento e movimentação de mercadorias.
+1129 | Transportes | Semáforos ajudam a organizar fluxos em cruzamentos.
+1130 | Transportes | Ponto de estudo: Semáforos ajudam a organizar fluxos em cruzamentos.
+1131 | Transportes | Para discussão em sala: Semáforos ajudam a organizar fluxos em cruzamentos.
+1132 | Transportes | Anotação temática: Semáforos ajudam a organizar fluxos em cruzamentos.
+1133 | Transportes | Ideia para aprofundamento: Semáforos ajudam a organizar fluxos em cruzamentos.
+1134 | Transportes | Calçadas acessíveis favorecem deslocamentos a pé.
+1135 | Transportes | Ponto de estudo: Calçadas acessíveis favorecem deslocamentos a pé.
+1136 | Transportes | Para discussão em sala: Calçadas acessíveis favorecem deslocamentos a pé.
+1137 | Transportes | Anotação temática: Calçadas acessíveis favorecem deslocamentos a pé.
+1138 | Transportes | Ideia para aprofundamento: Calçadas acessíveis favorecem deslocamentos a pé.
+1139 | Transportes | Veículos elétricos utilizam motores alimentados por energia elétrica.
+1140 | Transportes | Ponto de estudo: Veículos elétricos utilizam motores alimentados por energia elétrica.
+1141 | Transportes | Para discussão em sala: Veículos elétricos utilizam motores alimentados por energia elétrica.
+1142 | Transportes | Anotação temática: Veículos elétricos utilizam motores alimentados por energia elétrica.
+1143 | Transportes | Ideia para aprofundamento: Veículos elétricos utilizam motores alimentados por energia elétrica.
+1144 | Transportes | A manutenção preventiva é importante para a segurança viária.
+1145 | Transportes | Ponto de estudo: A manutenção preventiva é importante para a segurança viária.
+1146 | Transportes | Para discussão em sala: A manutenção preventiva é importante para a segurança viária.
+1147 | Transportes | Anotação temática: A manutenção preventiva é importante para a segurança viária.
+1148 | Transportes | Ideia para aprofundamento: A manutenção preventiva é importante para a segurança viária.
+1149 | Transportes | O planejamento de rotas pode reduzir distâncias e congestionamentos.
+1150 | Transportes | Ponto de estudo: O planejamento de rotas pode reduzir distâncias e congestionamentos.
+1151 | Transportes | Para discussão em sala: O planejamento de rotas pode reduzir distâncias e congestionamentos.
+1152 | Transportes | Anotação temática: O planejamento de rotas pode reduzir distâncias e congestionamentos.
+1153 | Transportes | Ideia para aprofundamento: O planejamento de rotas pode reduzir distâncias e congestionamentos.
+1154 | Agricultura | A irrigação fornece água às plantas em períodos necessários.
+1155 | Agricultura | Ponto de estudo: A irrigação fornece água às plantas em períodos necessários.
+1156 | Agricultura | Para discussão em sala: A irrigação fornece água às plantas em períodos necessários.
+1157 | Agricultura | Anotação temática: A irrigação fornece água às plantas em períodos necessários.
+1158 | Agricultura | Ideia para aprofundamento: A irrigação fornece água às plantas em períodos necessários.
+1159 | Agricultura | A rotação de culturas pode contribuir para o manejo do solo.
+1160 | Agricultura | Ponto de estudo: A rotação de culturas pode contribuir para o manejo do solo.
+1161 | Agricultura | Para discussão em sala: A rotação de culturas pode contribuir para o manejo do solo.
+1162 | Agricultura | Anotação temática: A rotação de culturas pode contribuir para o manejo do solo.
+1163 | Agricultura | Ideia para aprofundamento: A rotação de culturas pode contribuir para o manejo do solo.
+1164 | Agricultura | A compostagem transforma resíduos orgânicos em material útil ao solo.
+1165 | Agricultura | Ponto de estudo: A compostagem transforma resíduos orgânicos em material útil ao solo.
+1166 | Agricultura | Para discussão em sala: A compostagem transforma resíduos orgânicos em material útil ao solo.
+1167 | Agricultura | Anotação temática: A compostagem transforma resíduos orgânicos em material útil ao solo.
+1168 | Agricultura | Ideia para aprofundamento: A compostagem transforma resíduos orgânicos em material útil ao solo.
+1169 | Agricultura | Polinizadores são importantes para diversas culturas agrícolas.
+1170 | Agricultura | Ponto de estudo: Polinizadores são importantes para diversas culturas agrícolas.
+1171 | Agricultura | Para discussão em sala: Polinizadores são importantes para diversas culturas agrícolas.
+1172 | Agricultura | Anotação temática: Polinizadores são importantes para diversas culturas agrícolas.
+1173 | Agricultura | Ideia para aprofundamento: Polinizadores são importantes para diversas culturas agrícolas.
+1174 | Agricultura | O monitoramento do clima apoia decisões no campo.
+1175 | Agricultura | Ponto de estudo: O monitoramento do clima apoia decisões no campo.
+1176 | Agricultura | Para discussão em sala: O monitoramento do clima apoia decisões no campo.
+1177 | Agricultura | Anotação temática: O monitoramento do clima apoia decisões no campo.
+1178 | Agricultura | Ideia para aprofundamento: O monitoramento do clima apoia decisões no campo.
+1179 | Agricultura | A agricultura familiar desempenha papel relevante na produção de alimentos.
+1180 | Agricultura | Ponto de estudo: A agricultura familiar desempenha papel relevante na produção de alimentos.
+1181 | Agricultura | Para discussão em sala: A agricultura familiar desempenha papel relevante na produção de alimentos.
+1182 | Agricultura | Anotação temática: A agricultura familiar desempenha papel relevante na produção de alimentos.
+1183 | Agricultura | Ideia para aprofundamento: A agricultura familiar desempenha papel relevante na produção de alimentos.
+1184 | Agricultura | Sementes armazenam estruturas e recursos para originar novas plantas.
+1185 | Agricultura | Ponto de estudo: Sementes armazenam estruturas e recursos para originar novas plantas.
+1186 | Agricultura | Para discussão em sala: Sementes armazenam estruturas e recursos para originar novas plantas.
+1187 | Agricultura | Anotação temática: Sementes armazenam estruturas e recursos para originar novas plantas.
+1188 | Agricultura | Ideia para aprofundamento: Sementes armazenam estruturas e recursos para originar novas plantas.
+1189 | Agricultura | Análises de solo orientam decisões sobre manejo e nutrientes.
+1190 | Agricultura | Ponto de estudo: Análises de solo orientam decisões sobre manejo e nutrientes.
+1191 | Agricultura | Para discussão em sala: Análises de solo orientam decisões sobre manejo e nutrientes.
+1192 | Agricultura | Anotação temática: Análises de solo orientam decisões sobre manejo e nutrientes.
+1193 | Agricultura | Ideia para aprofundamento: Análises de solo orientam decisões sobre manejo e nutrientes.
+1194 | Agricultura | A mecanização modifica processos de plantio e colheita.
+1195 | Agricultura | Ponto de estudo: A mecanização modifica processos de plantio e colheita.
+1196 | Agricultura | Para discussão em sala: A mecanização modifica processos de plantio e colheita.
+1197 | Agricultura | Anotação temática: A mecanização modifica processos de plantio e colheita.
+1198 | Agricultura | Ideia para aprofundamento: A mecanização modifica processos de plantio e colheita.
+1199 | Agricultura | Práticas conservacionistas ajudam a reduzir a erosão.
+1200 | Agricultura | Ponto de estudo: Práticas conservacionistas ajudam a reduzir a erosão.
+1201 | Agricultura | Para discussão em sala: Práticas conservacionistas ajudam a reduzir a erosão.
+1202 | Agricultura | Anotação temática: Práticas conservacionistas ajudam a reduzir a erosão.
+1203 | Agricultura | Ideia para aprofundamento: Práticas conservacionistas ajudam a reduzir a erosão.
+1204 | Arquitetura | A arquitetura considera funções, estética e necessidades humanas.
+1205 | Arquitetura | Ponto de estudo: A arquitetura considera funções, estética e necessidades humanas.
+1206 | Arquitetura | Para discussão em sala: A arquitetura considera funções, estética e necessidades humanas.
+1207 | Arquitetura | Anotação temática: A arquitetura considera funções, estética e necessidades humanas.
+1208 | Arquitetura | Ideia para aprofundamento: A arquitetura considera funções, estética e necessidades humanas.
+1209 | Arquitetura | A ventilação natural pode melhorar o conforto de ambientes.
+1210 | Arquitetura | Ponto de estudo: A ventilação natural pode melhorar o conforto de ambientes.
+1211 | Arquitetura | Para discussão em sala: A ventilação natural pode melhorar o conforto de ambientes.
+1212 | Arquitetura | Anotação temática: A ventilação natural pode melhorar o conforto de ambientes.
+1213 | Arquitetura | Ideia para aprofundamento: A ventilação natural pode melhorar o conforto de ambientes.
+1214 | Arquitetura | A iluminação influencia a percepção dos espaços.
+1215 | Arquitetura | Ponto de estudo: A iluminação influencia a percepção dos espaços.
+1216 | Arquitetura | Para discussão em sala: A iluminação influencia a percepção dos espaços.
+1217 | Arquitetura | Anotação temática: A iluminação influencia a percepção dos espaços.
+1218 | Arquitetura | Ideia para aprofundamento: A iluminação influencia a percepção dos espaços.
+1219 | Arquitetura | Projetos acessíveis favorecem o uso por diferentes pessoas.
+1220 | Arquitetura | Ponto de estudo: Projetos acessíveis favorecem o uso por diferentes pessoas.
+1221 | Arquitetura | Para discussão em sala: Projetos acessíveis favorecem o uso por diferentes pessoas.
+1222 | Arquitetura | Anotação temática: Projetos acessíveis favorecem o uso por diferentes pessoas.
+1223 | Arquitetura | Ideia para aprofundamento: Projetos acessíveis favorecem o uso por diferentes pessoas.
+1224 | Arquitetura | Materiais construtivos possuem propriedades e impactos variados.
+1225 | Arquitetura | Ponto de estudo: Materiais construtivos possuem propriedades e impactos variados.
+1226 | Arquitetura | Para discussão em sala: Materiais construtivos possuem propriedades e impactos variados.
+1227 | Arquitetura | Anotação temática: Materiais construtivos possuem propriedades e impactos variados.
+1228 | Arquitetura | Ideia para aprofundamento: Materiais construtivos possuem propriedades e impactos variados.
+1229 | Arquitetura | Plantas baixas representam a organização interna de edificações.
+1230 | Arquitetura | Ponto de estudo: Plantas baixas representam a organização interna de edificações.
+1231 | Arquitetura | Para discussão em sala: Plantas baixas representam a organização interna de edificações.
+1232 | Arquitetura | Anotação temática: Plantas baixas representam a organização interna de edificações.
+1233 | Arquitetura | Ideia para aprofundamento: Plantas baixas representam a organização interna de edificações.
+1234 | Arquitetura | O paisagismo integra vegetação e espaços construídos.
+1235 | Arquitetura | Ponto de estudo: O paisagismo integra vegetação e espaços construídos.
+1236 | Arquitetura | Para discussão em sala: O paisagismo integra vegetação e espaços construídos.
+1237 | Arquitetura | Anotação temática: O paisagismo integra vegetação e espaços construídos.
+1238 | Arquitetura | Ideia para aprofundamento: O paisagismo integra vegetação e espaços construídos.
+1239 | Arquitetura | Edifícios históricos registram técnicas e estilos de outras épocas.
+1240 | Arquitetura | Ponto de estudo: Edifícios históricos registram técnicas e estilos de outras épocas.
+1241 | Arquitetura | Para discussão em sala: Edifícios históricos registram técnicas e estilos de outras épocas.
+1242 | Arquitetura | Anotação temática: Edifícios históricos registram técnicas e estilos de outras épocas.
+1243 | Arquitetura | Ideia para aprofundamento: Edifícios históricos registram técnicas e estilos de outras épocas.
+1244 | Arquitetura | O isolamento térmico pode reduzir trocas indesejadas de calor.
+1245 | Arquitetura | Ponto de estudo: O isolamento térmico pode reduzir trocas indesejadas de calor.
+1246 | Arquitetura | Para discussão em sala: O isolamento térmico pode reduzir trocas indesejadas de calor.
+1247 | Arquitetura | Anotação temática: O isolamento térmico pode reduzir trocas indesejadas de calor.
+1248 | Arquitetura | Ideia para aprofundamento: O isolamento térmico pode reduzir trocas indesejadas de calor.
+1249 | Arquitetura | O desenho urbano influencia encontros e deslocamentos.
+1250 | Arquitetura | Ponto de estudo: O desenho urbano influencia encontros e deslocamentos.
+1251 | Arquitetura | Para discussão em sala: O desenho urbano influencia encontros e deslocamentos.
+1252 | Arquitetura | Anotação temática: O desenho urbano influencia encontros e deslocamentos.
+1253 | Arquitetura | Ideia para aprofundamento: O desenho urbano influencia encontros e deslocamentos.

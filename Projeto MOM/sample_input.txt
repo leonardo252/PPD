@@ -1,0 +1,5 @@
+Python pode se conectar ao ActiveMQ usando STOMP.
+O broker distribui as linhas entre os workers.
+Cada worker conta Python, ActiveMQ e outras palavras-chave.
+O dashboard recebe resultados publicados em um topico.
+MOM desacopla produtores e consumidores.
